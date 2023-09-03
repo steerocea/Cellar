@@ -32,10 +32,13 @@ What is the main game mechanic
 A list of the challenging engine technology that will be learnt/used.
 
 # Weighting 
-Design - Description (20-45)  : 
-Design - Technical (15-35)    :
-Group Setup (20-40)           : 
-Video (5-15)                  : 
+Design - Description (20-45) :
+
+Design - Technical (15-35) :
+
+Group Setup (20-40) :
+
+Video (5-15) : 
 
 
 
