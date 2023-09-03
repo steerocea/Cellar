@@ -1,10 +1,10 @@
 # CGRA 252 Game Engine Programming
 
-## Title of the Game
+# Title of the Game
 
-## Cellar
+# Cellar
 
-## Roles
+# Roles
 🐻 Simon McCallum
 
 🐺 Wolf
@@ -20,18 +20,18 @@
 # Video
 Link to video (onedrive/vimeo/youtube/googledrive other video service) showing the prototype/game ( approx. 4-9 mins )
 
-## Game Description
+# Game Description
 
-# Game Style and Similar Games
+## Game Style and Similar Games
 What is the style of the game, what are similar games
 
-# Game Mechanic
+## Game Mechanic
 What is the main game mechanic
 
-# Challenge Technologies
+## Challenge Technologies
 A list of the challenging engine technology that will be learnt/used.
 
-## Weighting 
+# Weighting 
 Design - Description (20-45)  : 
 Design - Technical (15-35)    :
 Group Setup (20-40)           : 
