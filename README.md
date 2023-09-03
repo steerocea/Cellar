@@ -5,17 +5,12 @@
 # Cellar
 
 # Roles
-🐻 Simon McCallum
 
-🐺 Wolf
+🐺 Kent 
 
-🐱 Cat
+🐶 Ocean
 
-🐶 Puppy
-
-🐰 Rabbit
-
-🦉 Owl
+🦉 Levi
 
 # Video
 Link to video (onedrive/vimeo/youtube/googledrive other video service) showing the design of the game ( approx. 2-4 mins )
