@@ -1,28 +1,42 @@
 # CGRA 252 Game Engine Programming
 
-## Your name
-## Assignment 1
-
 ## Title of the Game
 
+## Cellar
 
+## Roles
+🐻 Simon McCallum
+
+🐺 Wolf
+
+🐱 Cat
+
+🐶 Puppy
+
+🐰 Rabbit
+
+🦉 Owl
+
+# Video
 Link to video (onedrive/vimeo/youtube/googledrive other video service) showing the prototype/game ( approx. 4-9 mins )
 
-# Game Description
-A general description of the game and how it is played. 
+## Game Description
 
-## Game Mechanic
+# Game Style and Similar Games
+What is the style of the game, what are similar games
+
+# Game Mechanic
 What is the main game mechanic
 
-## Coding Challenge
-What was the hardest part of the game to get working in Unreal?
+# Challenge Technologies
+A list of the challenging engine technology that will be learnt/used.
 
-## Interesting feature
-What is the most interesting part of the game?
+## Weighting 
+Design - Description (20-45)  : 
+Design - Technical (15-35)    :
+Group Setup (20-40)           : 
+Video (5-15)                  : 
 
-# Reflection
-
-Reflection on learning.  This is very important.  You need to think about what you are learning and how it is making you better at using the engine.
 
 
 
