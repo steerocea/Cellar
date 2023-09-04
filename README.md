@@ -8,7 +8,7 @@
 
 🐺 Kent 
 
-🐶 Ocean
+🐶 Puppy - Ocean
 
 🦉 Levi
 
