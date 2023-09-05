@@ -28,7 +28,7 @@ Our game development will involve tackling challenging engine technologies that 
 
 Secondly, our endeavor into advanced enemy AI and general AI presents another layer of complexity. We're committed to crafting intelligent enemies that adapt to player actions and exhibit diverse behaviors, enhancing the overall gaming experience. 
 
-These challenging technologies will not only push the boundaries of our development capabilities but also contribute significantly to the depth and replayability of our dungeon crawler.
+These challenging technologies will not only push the boundaries of our development capabilities but also contribute significantly to the depth and replayability of our dungeon crawler. 
 
 
 # Weighting 
