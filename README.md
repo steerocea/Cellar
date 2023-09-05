@@ -6,7 +6,7 @@
 
 # Roles
 
-🐺 Kent 
+🐺 Kent - Kent
 
 🐶 Puppy - Ocean
 
