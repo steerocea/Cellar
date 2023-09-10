@@ -13,7 +13,7 @@
 🦉Owl - Levi
 
 # Video
-Link to video (onedrive/vimeo/youtube/googledrive other video service) showing the design of the game ( approx. 2-4 mins )
+Link to video - https://youtu.be/leZ0Brmr15c
 
 # Game Description
 
