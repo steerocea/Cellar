@@ -13,7 +13,7 @@
 🦉Owl - Levi
 
 # Video
-Link to video (onedrive/vimeo/youtube/googledrive other video service) showing the design of the game ( approx. 2-4 mins )
+Link to video - https://youtu.be/leZ0Brmr15c
 
 # Game Description
 
@@ -30,15 +30,6 @@ Secondly, our endeavor into advanced enemy AI and general AI presents another la
 
 These challenging technologies will not only push the boundaries of our development capabilities but also contribute significantly to the depth and replayability of our dungeon crawler. 
 
-
-# Weighting 
-Design - Description (20-45) :
-
-Design - Technical (15-35) :
-
-Group Setup (20-40) :
-
-Video (5-15) : 
 
 
 
