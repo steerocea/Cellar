@@ -1845,3 +1845,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.25-22.59.08:869][991]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
 	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_10
 	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:003A
+[2023.09.25-23.07.02:141][973]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.25-23.07.06:827][166]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.25-23.07.08:565][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.25-23.07.08:644][245]LogSavePackage: Moving output files for package: /Game/Inventory/UI/W_InventorySlot
+[2023.09.25-23.07.08:645][245]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/W_InventorySlotF48AE5014E9E56276673D49606198BFA.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/UI/W_InventorySlot.uasset'
+[2023.09.25-23.07.08:655][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 2.70 sec)
+[2023.09.25-23.07.08:667][245]AssetCheck: New page: Asset Save: W_InventorySlot
+[2023.09.25-23.07.08:667][245]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Inventory/UI/W_InventorySlot.W_InventorySlot
+[2023.09.25-23.07.18:861][702]BlueprintLog: New page: Compile W_InventorySlot
+[2023.09.25-23.07.18:931][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.09.25-23.07.19:524][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.25-23.07.19:602][725]LogSavePackage: Moving output files for package: /Game/Inventory/UI/W_InventorySlot
+[2023.09.25-23.07.19:603][725]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/W_InventorySlotFD979C7A4357CE289ACE8CA237E767ED.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/UI/W_InventorySlot.uasset'
+[2023.09.25-23.07.19:613][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.79 sec)
+[2023.09.25-23.07.19:622][725]AssetCheck: New page: Asset Save: W_InventorySlot
+[2023.09.25-23.07.19:622][725]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Inventory/UI/W_InventorySlot.W_InventorySlot
