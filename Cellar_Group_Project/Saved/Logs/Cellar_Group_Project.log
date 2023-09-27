@@ -2299,3 +2299,482 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.09.27-00.53.35:661][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.27-00.53.35:663][258]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.27-00.53.35:675][259]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.09.27-01.03.52:104][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:104][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:105][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:106][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:107][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:108][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:109][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:110][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:111][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:111][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:112][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:113][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:113][908]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.52:155][909]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:299][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:299][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:300][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:301][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:301][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:302][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:302][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:303][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:303][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:304][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:305][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:305][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:306][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:306][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.53:310][961]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:452][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:453][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:454][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:454][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:455][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:456][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:456][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:457][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:457][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:458][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:459][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:460][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:460][ 69]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.03.55:506][ 70]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.05.21:808][804]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.05.23:265][864]BlueprintLog: New page: Compile Chest
+[2023.09.27-01.05.23:280][864]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.REINST_Chest_C_2.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.05.23:336][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.09.27-01.05.23:814][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.05.23:895][875]LogSavePackage: Moving output files for package: /Game/Inventory/Chest
+[2023.09.27-01.05.23:896][875]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Chest49B7F73C436402CA852459B24FA05DA7.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Chest.uasset'
+[2023.09.27-01.05.23:906][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 3.60 sec)
+[2023.09.27-01.05.23:915][875]AssetCheck: New page: Asset Save: Chest
+[2023.09.27-01.05.23:915][875]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Chest.Chest
+[2023.09.27-01.05.48:638][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.09.27-01.05.48:644][960]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.05.48:644][960]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.05.48:644][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-01.05.48:778][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto1
+[2023.09.27-01.05.48:779][960]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom_Auto158EF30B54C0CC67109BEDDA0411FEC12.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto1.umap'
+[2023.09.27-01.05.48:806][960]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom' took 0.204
+[2023.09.27-01.05.48:806][960]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.204
+[2023.09.27-01.07.16:614][207]LogDerivedDataCache: C:/Users/Gorilla Rig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.342 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1534 files in 2386 folders with total size 97 MiB.
+[2023.09.27-01.10.46:408][777]LogEditorTransaction: Undo Move Nodes
+[2023.09.27-01.10.46:569][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:569][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:570][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:570][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:571][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:572][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:572][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:573][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:574][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:574][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:575][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:576][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:576][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.10.46:577][777]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.13.34:315][959]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-01.13.34:416][959]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.13.34:463][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.09.27-01.13.35:511][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.13.35:631][978]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-01.13.35:632][978]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemE8DD88C24A928D0C2468D380DC3B4A6E.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-01.13.35:644][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 3.74 sec)
+[2023.09.27-01.13.35:656][978]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-01.13.35:656][978]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-01.16.34:585][929]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-01.16.34:675][929]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.16.34:721][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.09.27-01.16.35:426][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.16.35:563][931]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-01.16.35:564][931]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System0FCC52744E464D60745DD8885FC2F8F5.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-01.16.35:576][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 3.88 sec)
+[2023.09.27-01.16.35:585][931]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-01.16.35:585][931]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-01.17.19:659][603]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-01.17.19:739][603]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.17.19:783][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.09.27-01.17.20:355][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.17.20:467][607]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-01.17.20:468][607]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System28A9CB054C7FDC18D0C9DCA06837E8B7.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-01.17.20:480][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 4.01 sec)
+[2023.09.27-01.17.20:489][607]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-01.17.20:489][607]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-01.18.12:608][609]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-01.18.12:685][609]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.18.12:725][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.09.27-01.18.13:239][611]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.18.13:347][611]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-01.18.13:348][611]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemCD86992B439759BE3623F7A7BC37A266.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-01.18.13:360][611]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 4.13 sec)
+[2023.09.27-01.18.13:371][611]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-01.18.13:371][611]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-01.18.37:462][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.09.27-01.18.37:468][696]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.18.37:468][696]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.18.37:468][696]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-01.18.37:581][696]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto2
+[2023.09.27-01.18.37:582][696]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom_Auto2D002E4DA42D04C3FB14D58A0BA83F3F1.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto2.umap'
+[2023.09.27-01.18.37:601][696]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom' took 0.175
+[2023.09.27-01.18.37:601][696]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.175
+[2023.09.27-01.18.49:469][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:470][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:471][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:472][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:473][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:473][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:474][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:474][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:475][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:476][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:477][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:478][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:479][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:479][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.49:484][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:440][799]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.27-01.18.50:454][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.27-01.18.50:454][799]PIE: New page: PIE session: DungeonTestRoom (28/09/2023, 3:18:50 am)
+[2023.09.27-01.18.50:454][799]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.27-01.18.50:489][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034651s)
+[2023.09.27-01.18.50:489][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.034708s)
+[2023.09.27-01.18.50:489][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.27-01.18.50:489][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-01.18.50:489][799]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.27-01.18.50:490][799]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2023.09.27-01.18.50:522][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.09.27-01.18.50:525][799]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.27-01.18.50:526][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.27-01.18.50:526][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.27-01.18.50:526][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.27-01.18.50:526][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.27-01.18.50:526][799]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.27-01.18.50:526][799]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.27-01.18.50:526][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.27-01.18.50:526][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.27-01.18.50:526][799]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.27-01.18.50:526][799]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.27-01.18.50:526][799]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.27-01.18.50:528][799]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.27-01.18.50:589][799]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.27-01.18.50:590][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.27-01.18.50:590][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.27-01.18.50:590][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.27-01.18.50:591][799]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.09.27-01.18.50:591][799]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.09.27-01.18.50:593][799]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.09.27-01.18.50:593][799]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.09.27-01.18.50:593][799]LogInit: FAudioDevice initialized with ID 7.
+[2023.09.27-01.18.50:593][799]LogAudio: Display: Audio Device (ID: 7) registered with world 'DungeonTestRoom'.
+[2023.09.27-01.18.50:593][799]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.09.27-01.18.50:597][799]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.27-01.18.50:615][799]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.27-14.18.50
+[2023.09.27-01.18.50:616][799]LogWorld: Bringing up level for play took: 0.018999
+[2023.09.27-01.18.50:619][799]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.09.27-01.18.50:624][799]PIE: Server logged in
+[2023.09.27-01.18.50:624][799]PIE: Play in editor total start time 0.171 seconds.
+[2023.09.27-01.18.50:661][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:662][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:663][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:663][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:664][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:664][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:665][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:666][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:667][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:668][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:668][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:669][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:670][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.50:674][799]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.18.56:074][ 60]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.18.56:074][ 60]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.18.56:935][119]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.18.57:106][131]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.18.57:780][177]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.18.57:929][186]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.18.57:929][186]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.18.57:929][186]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.27-01.19.00:020][336]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-01.19.00:020][336]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-01.19.00:464][367]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.00:464][367]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.00:743][384]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.00:743][384]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.00:917][395]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.01:105][407]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.01:257][417]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.01:903][458]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.19.02:058][468]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.19.02:059][468]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.19.02:059][468]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-01.19.04:157][618]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-01.19.04:157][618]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-01.19.04:431][637]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.04:431][637]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.04:739][655]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.04:740][655]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.04:977][670]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.05:143][681]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.05:296][691]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.05:466][702]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.05:558][708]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.19.05:855][728]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.19.06:612][778]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.06:613][778]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.06:893][796]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.07:052][806]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.07:177][814]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.07:329][824]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.07:452][832]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.07:603][842]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.07:759][852]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.07:941][864]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.19.08:287][886]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.19.08:287][886]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.19.08:287][886]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-01.19.15:609][387]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-01.19.15:610][387]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-01.19.16:289][428]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.16:289][428]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.19.16:481][440]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.16:666][452]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.16:839][463]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.16:951][470]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.17:109][480]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.19.17:389][498]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.19.17:625][514]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.19.17:787][524]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.19.17:787][524]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.19.17:787][524]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-01.19.22:050][827]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-01.19.22:050][827]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-01.19.22:692][871]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.19.22:692][871]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.19.22:692][871]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-01.19.25:114][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-01.19.25:114][ 40]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.27-01.19.25:114][ 40]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-01.19.25:116][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-01.19.25:122][ 40]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.27-01.19.25:138][ 40]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-01.19.25:174][ 40]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-01.19.25:176][ 40]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.09.27-01.19.25:176][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.27-01.19.25:178][ 40]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.27-01.19.25:219][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.09.27-01.19.25:253][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:254][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:255][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:256][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:256][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:257][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:258][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:258][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:258][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:259][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:259][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:260][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:261][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:264][ 40]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.19.25:291][ 41]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.09.27-01.20.14:056][276]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.20.24:104][518]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.20.26:862][633]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.20.28:995][728]BlueprintLog: New page: Compile Chest
+[2023.09.27-01.20.29:007][728]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.REINST_Chest_C_3.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.20.29:070][728]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.09.27-01.20.29:739][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.20.29:807][747]LogSavePackage: Moving output files for package: /Game/Inventory/Chest
+[2023.09.27-01.20.29:808][747]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/ChestF2D8D2A7466451DCD6FC54856F125716.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Chest.uasset'
+[2023.09.27-01.20.29:819][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 4.21 sec)
+[2023.09.27-01.20.29:830][747]AssetCheck: New page: Asset Save: Chest
+[2023.09.27-01.20.29:831][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Chest.Chest
+[2023.09.27-01.20.34:497][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:498][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:498][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:499][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:499][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:500][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:501][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:501][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:502][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:503][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:503][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:504][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:505][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.34:561][971]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:279][113]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.27-01.20.38:292][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.27-01.20.38:292][113]PIE: New page: PIE session: DungeonTestRoom (28/09/2023, 3:20:38 am)
+[2023.09.27-01.20.38:292][113]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.27-01.20.38:324][113]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031902s)
+[2023.09.27-01.20.38:324][113]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.031954s)
+[2023.09.27-01.20.38:324][113]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.27-01.20.38:324][113]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-01.20.38:325][113]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.27-01.20.38:326][113]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2023.09.27-01.20.38:363][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.09.27-01.20.38:366][113]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.09.27-01.20.38:366][113]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.27-01.20.38:366][113]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.27-01.20.38:366][113]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.27-01.20.38:366][113]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.27-01.20.38:366][113]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.27-01.20.38:366][113]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.27-01.20.38:366][113]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.27-01.20.38:366][113]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.27-01.20.38:367][113]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.27-01.20.38:367][113]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.27-01.20.38:367][113]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.27-01.20.38:369][113]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.27-01.20.38:430][113]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.27-01.20.38:431][113]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.27-01.20.38:431][113]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.27-01.20.38:431][113]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.27-01.20.38:431][113]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.09.27-01.20.38:432][113]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.09.27-01.20.38:434][113]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.09.27-01.20.38:434][113]LogInit: FAudioDevice initialized with ID 8.
+[2023.09.27-01.20.38:434][113]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.09.27-01.20.38:434][113]LogAudio: Display: Audio Device (ID: 8) registered with world 'DungeonTestRoom'.
+[2023.09.27-01.20.38:434][113]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.09.27-01.20.38:437][113]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.27-01.20.38:456][113]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.27-14.20.38
+[2023.09.27-01.20.38:457][113]LogWorld: Bringing up level for play took: 0.019675
+[2023.09.27-01.20.38:460][113]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.09.27-01.20.38:465][113]PIE: Server logged in
+[2023.09.27-01.20.38:466][113]PIE: Play in editor total start time 0.174 seconds.
+[2023.09.27-01.20.38:485][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:486][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:487][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:487][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:488][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:489][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:490][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:491][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:492][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:493][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:493][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:494][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:495][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.38:496][113]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.20.43:195][352]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.20.43:336][361]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.20.43:336][361]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.20.43:336][361]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.27-01.20.45:853][533]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-01.20.45:854][533]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-01.20.46:944][597]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.46:944][597]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.47:328][624]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.47:526][635]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.47:628][643]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.48:354][692]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.20.48:479][699]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.20.48:479][699]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.20.48:479][699]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-01.20.50:733][854]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-01.20.50:733][854]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-01.20.51:016][872]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.51:016][872]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.51:282][888]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.51:282][888]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.51:424][897]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.51:601][908]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.51:756][918]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.51:894][927]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.52:111][941]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.20.52:385][960]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.20.52:695][981]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.20.52:695][981]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.20.52:695][981]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-01.20.54:199][ 89]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-01.20.54:199][ 89]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-01.20.54:641][120]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.20.55:078][146]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.55:078][146]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.55:314][161]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.55:476][172]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.55:627][182]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.55:748][190]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.56:936][265]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.56:936][265]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-01.20.57:114][276]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.57:266][286]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.57:371][293]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.57:507][301]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-01.20.58:617][370]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-01.20.58:874][386]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-01.20.58:875][386]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-01.20.58:875][386]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-01.21.03:220][681]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-01.21.03:220][681]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-01.21.06:512][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-01.21.06:512][888]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.27-01.21.06:513][888]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-01.21.06:516][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-01.21.06:539][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.27-01.21.06:550][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-01.21.06:584][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-01.21.06:594][888]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.09.27-01.21.06:594][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.09.27-01.21.06:596][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.09.27-01.21.06:616][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.09.27-01.21.06:650][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:650][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:651][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:651][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:652][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:653][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:653][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:654][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:654][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:655][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:655][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:656][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:656][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:657][888]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-01.21.06:687][889]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.09.27-01.21.07:642][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.21.07:699][916]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.21.07:699][916]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.21.07:699][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-01.21.07:755][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.09.27-01.21.07:859][916]LogSavePackage: Moving output files for package: /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom
+[2023.09.27-01.21.07:861][916]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom2E33F114438FBB8B2815FEACABFC2B4A.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Levels/DungeonPrototypeLevel/DungeonTestRoom.umap'
+[2023.09.27-01.21.07:886][916]LogFileHelpers: Saving map 'DungeonTestRoom' took 0.190
+[2023.09.27-01.21.07:899][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 4.47 sec)
+[2023.09.27-01.21.07:912][916]AssetCheck: New page: Asset Save: DungeonTestRoom
+[2023.09.27-01.21.07:912][916]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom
+[2023.09.27-01.24.14:211][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.24.14:261][303]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.24.14:261][303]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.24.14:261][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-01.24.14:315][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.09.27-01.24.14:411][303]LogSavePackage: Moving output files for package: /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom
+[2023.09.27-01.24.14:412][303]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom17F9B8F5474B183EE81C758CCAA6333D.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Levels/DungeonPrototypeLevel/DungeonTestRoom.umap'
+[2023.09.27-01.24.14:435][303]LogFileHelpers: Saving map 'DungeonTestRoom' took 0.177
+[2023.09.27-01.24.14:446][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 235 ms (total: 4.70 sec)
+[2023.09.27-01.24.14:454][303]AssetCheck: New page: Asset Save: DungeonTestRoom
+[2023.09.27-01.24.14:454][303]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom
+[2023.09.27-01.24.14:899][322]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Engine/Transient.World_7:W_ChestInventory_C_56
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-01.24.15:362][346]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Engine/Transient.World_9:W_PlayerMenu_C_23
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-01.24.28:653][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-01.24.28:711][864]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.24.28:711][864]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-01.24.28:711][864]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-01.24.28:763][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.09.27-01.24.28:858][864]LogSavePackage: Moving output files for package: /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom
+[2023.09.27-01.24.28:859][864]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom3B7786B843A1FC887BB184A075713D3A.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Levels/DungeonPrototypeLevel/DungeonTestRoom.umap'
+[2023.09.27-01.24.28:882][864]LogFileHelpers: Saving map 'DungeonTestRoom' took 0.174
+[2023.09.27-01.24.28:906][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 252 ms (total: 4.95 sec)
+[2023.09.27-01.24.28:914][864]AssetCheck: New page: Asset Save: DungeonTestRoom
+[2023.09.27-01.24.28:914][864]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom
