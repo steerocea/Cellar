@@ -3067,3 +3067,498 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.27-06.21.40:373][251]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 1.57 sec)
 [2023.09.27-06.21.40:384][251]AssetCheck: New page: Asset Save: DungeonTestRoom
 [2023.09.27-06.21.40:384][251]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom
+[2023.09.27-06.24.33:943][ 32]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.33:970][ 33]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.34:448][ 52]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:472][ 53]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:495][ 54]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:516][ 55]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:539][ 56]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:563][ 57]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:598][ 58]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:622][ 59]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:646][ 60]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_6
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.27-06.24.34:820][ 67]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.34:843][ 68]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.34:869][ 69]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.34:891][ 70]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.34:915][ 71]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.35:560][101]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.35:586][102]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.35:608][103]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.35:632][104]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_16
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.24.37:707][193]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.24.37:707][193]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.27-06.24.37:708][193]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-06.25.47:674][274]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.25.47:772][274]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.25.47:820][274]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.09.27-06.25.48:009][274]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_17
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.25.48:011][274]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_17
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.25.48:245][276]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_17
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.25.48:605][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.25.48:732][293]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.25.48:734][293]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemE3E1E1274F679183E50448840A55769C.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.25.48:744][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1.71 sec)
+[2023.09.27-06.25.48:753][293]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.25.48:753][293]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.26.19:985][702]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.26.20:064][702]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.26.20:108][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.09.27-06.26.20:302][702]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_18
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.26.20:305][702]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_18
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.26.20:460][704]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_18
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.26.20:566][709]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.26.20:692][709]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.26.20:693][709]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System59B8BCE54D5ADEAE58C6E48472D15162.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.26.20:705][709]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 1.85 sec)
+[2023.09.27-06.26.20:714][709]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.26.20:714][709]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.26.40:974][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.26.41:104][665]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.26.41:106][665]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System237DC50943E2310479A1AE8ED486B888.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.26.41:117][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 1.99 sec)
+[2023.09.27-06.26.41:127][665]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.26.41:127][665]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.33.16:324][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.09.27-06.33.16:329][768]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.33.16:329][768]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.33.16:329][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-06.33.16:448][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto1
+[2023.09.27-06.33.16:449][768]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom_Auto1CAD87CCA42534BA63434EB8979B04EEB.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto1.umap'
+[2023.09.27-06.33.16:470][768]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom' took 0.178
+[2023.09.27-06.33.16:470][768]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.178
+[2023.09.27-06.33.16:470][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Inventory_System] ([2] browsable assets)...
+[2023.09.27-06.33.16:470][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Inventory_System]
+[2023.09.27-06.33.16:546][768]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Inventory_System_Auto1
+[2023.09.27-06.33.16:547][768]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System_Auto17660147C474BD5A6AF9EE491AA2D971C.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/Inventory/Inventory_System_Auto1.uasset'
+[2023.09.27-06.33.16:549][768]LogFileHelpers: Auto-saving content packages took 0.079
+[2023.09.27-06.34.38:223][526]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.34.38:310][526]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.34.38:353][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.09.27-06.34.38:597][526]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_19
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.34.38:803][527]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_19
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.34.39:215][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.34.39:341][544]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.34.39:342][544]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System7F3B0C5D4FE2C3AFA8E7DBA604B7E856.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.34.39:353][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.13 sec)
+[2023.09.27-06.34.39:363][544]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.34.39:363][544]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.36.24:847][937]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.36.24:922][937]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.36.24:961][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.09.27-06.36.25:180][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_20
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.36.25:182][937]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_20
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.36.25:404][939]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_20
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.36.25:719][955]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.36.25:845][955]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.36.25:846][955]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemA29C6642462303433CF09880848DC18D.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.36.25:857][955]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.27 sec)
+[2023.09.27-06.36.25:867][955]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.36.25:867][955]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.38.42:071][653]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.38.42:145][653]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.38.42:192][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.09.27-06.38.42:400][653]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_21
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.38.42:402][653]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_21
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.38.42:613][655]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_21
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.38.43:007][674]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.38.43:134][674]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.38.43:135][674]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemBD078C144ADDF62E99A55EB898B0F7AC.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.38.43:145][674]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 2.41 sec)
+[2023.09.27-06.38.43:153][674]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.38.43:154][674]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.41.57:321][951]LogSlate: Took 0.000438 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.27-06.42.25:522][750]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.42.25:600][750]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.42.25:647][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.09.27-06.42.25:862][750]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_22
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.42.25:863][750]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_22
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.42.26:043][752]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_22
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.42.26:352][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.42.26:471][766]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.42.26:472][766]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemC9804D8D4CCBF9DB77C423AC1281F2D6.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.42.26:483][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 2.54 sec)
+[2023.09.27-06.42.26:493][766]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.42.26:493][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.43.19:885][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.09.27-06.43.19:891][719]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.43.19:891][719]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.43.19:891][719]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-06.43.20:009][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto2
+[2023.09.27-06.43.20:010][719]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom_Auto232DEC07E41B3082B1E6299A433C59529.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto2.umap'
+[2023.09.27-06.43.20:029][719]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom' took 0.180
+[2023.09.27-06.43.20:029][719]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.180
+[2023.09.27-06.43.20:029][719]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Inventory/Inventory_System] ([2] browsable assets)...
+[2023.09.27-06.43.20:029][719]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Inventory_System]
+[2023.09.27-06.43.20:103][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Inventory_System_Auto2
+[2023.09.27-06.43.20:104][719]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System_Auto25EBA84834F34CB5EDA0D5DBB8E66203D.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/Inventory/Inventory_System_Auto2.uasset'
+[2023.09.27-06.43.20:105][719]LogFileHelpers: Auto-saving content packages took 0.077
+[2023.09.27-06.45.07:872][124]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.45.07:961][124]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.45.08:005][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.09.27-06.45.08:273][124]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_23
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.45.08:524][125]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_23
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.45.09:139][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.45.09:266][150]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.45.09:267][150]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemD67BF30E4BAB80192A89E891628BCC4E.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.45.09:277][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 2.68 sec)
+[2023.09.27-06.45.09:286][150]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.45.09:286][150]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.46.51:979][831]BlueprintLog: New page: Compile W_ActionMenu
+[2023.09.27-06.46.52:049][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.09.27-06.46.52:792][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.46.52:873][854]LogSavePackage: Moving output files for package: /Game/Inventory/UI/W_ActionMenu
+[2023.09.27-06.46.52:874][854]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/W_ActionMenu0C761C0A4035A2A3E1DB018ED4DA3252.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/UI/W_ActionMenu.uasset'
+[2023.09.27-06.46.52:885][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 2.77 sec)
+[2023.09.27-06.46.52:896][854]AssetCheck: New page: Asset Save: W_ActionMenu
+[2023.09.27-06.46.52:896][854]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Inventory/UI/W_ActionMenu.W_ActionMenu
+[2023.09.27-06.47.21:911][ 25]BlueprintLog: New page: Compile W_ActionMenu
+[2023.09.27-06.47.21:973][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.09.27-06.47.22:756][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.47.22:823][ 54]LogSavePackage: Moving output files for package: /Game/Inventory/UI/W_ActionMenu
+[2023.09.27-06.47.22:824][ 54]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/W_ActionMenuD216E69E4688DD36A156FBA97EBDF4A8.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/UI/W_ActionMenu.uasset'
+[2023.09.27-06.47.22:835][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.85 sec)
+[2023.09.27-06.47.22:843][ 54]AssetCheck: New page: Asset Save: W_ActionMenu
+[2023.09.27-06.47.22:843][ 54]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Inventory/UI/W_ActionMenu.W_ActionMenu
+[2023.09.27-06.52.16:712][189]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.52.16:805][189]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.52.16:842][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.09.27-06.52.17:097][189]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_24
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.52.17:099][189]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_24
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.52.17:313][191]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_24
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.52.17:633][207]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.52.17:762][207]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.52.17:763][207]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System06CBC0954F97A6F12159CDBFFAD9D007.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.52.17:774][207]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 2.99 sec)
+[2023.09.27-06.52.17:781][207]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.52.17:781][207]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.52.21:825][368]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.27-06.52.21:839][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.27-06.52.21:839][368]PIE: New page: PIE session: DungeonTestRoom (28/09/2023, 8:52:21 am)
+[2023.09.27-06.52.21:839][368]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.27-06.52.21:871][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031897s)
+[2023.09.27-06.52.21:871][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.031943s)
+[2023.09.27-06.52.21:871][368]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.27-06.52.21:871][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-06.52.21:871][368]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.27-06.52.21:872][368]LogPlayLevel: PIE: World Init took: (0.001263s)
+[2023.09.27-06.52.21:903][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.09.27-06.52.21:906][368]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.09.27-06.52.21:906][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.27-06.52.21:906][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.27-06.52.21:906][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.27-06.52.21:906][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.27-06.52.21:906][368]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.27-06.52.21:906][368]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.27-06.52.21:906][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.27-06.52.21:906][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.27-06.52.21:906][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.27-06.52.21:906][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.27-06.52.21:906][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.27-06.52.21:909][368]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.27-06.52.21:969][368]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.27-06.52.21:969][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.27-06.52.21:969][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.27-06.52.21:969][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.27-06.52.21:970][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.09.27-06.52.21:970][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.09.27-06.52.21:972][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.09.27-06.52.21:972][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.09.27-06.52.21:972][368]LogInit: FAudioDevice initialized with ID 14.
+[2023.09.27-06.52.21:972][368]LogAudio: Display: Audio Device (ID: 14) registered with world 'DungeonTestRoom'.
+[2023.09.27-06.52.21:972][368]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2023.09.27-06.52.21:976][368]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.27-06.52.21:994][368]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.27-19.52.21
+[2023.09.27-06.52.21:995][368]LogWorld: Bringing up level for play took: 0.019077
+[2023.09.27-06.52.21:998][368]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.09.27-06.52.22:002][368]PIE: Server logged in
+[2023.09.27-06.52.22:003][368]PIE: Play in editor total start time 0.165 seconds.
+[2023.09.27-06.52.22:038][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:039][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:039][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:040][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:041][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:041][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:042][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:043][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:043][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:044][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:045][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:046][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:047][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.22:047][368]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.25:842][558]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-06.52.26:365][588]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-06.52.26:366][588]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-06.52.26:366][588]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.27-06.52.27:355][660]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-06.52.27:355][660]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-06.52.27:895][694]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-06.52.27:895][694]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.27-06.52.28:109][707]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-06.52.28:307][717]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-06.52.28:402][724]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-06.52.28:543][733]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-06.52.28:684][742]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-06.52.28:824][751]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-06.52.28:977][761]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-06.52.29:105][769]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.27-06.52.29:291][781]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-06.52.30:302][850]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-06.52.30:302][850]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-06.52.30:302][850]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-06.52.38:223][395]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-06.52.38:223][395]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-06.52.38:882][441]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-06.52.39:147][458]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-06.52.39:147][458]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-06.52.39:147][458]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.27-06.52.52:439][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-06.52.52:439][379]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.27-06.52.52:439][379]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-06.52.52:441][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-06.52.52:445][379]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.27-06.52.52:455][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-06.52.52:488][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-06.52.52:494][379]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2023.09.27-06.52.52:494][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.09.27-06.52.52:496][379]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.09.27-06.52.52:501][379]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-06.52.52:523][379]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.09.27-06.52.52:547][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:548][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:548][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:549][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:549][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:550][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:550][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:551][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:551][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:552][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:552][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:553][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:553][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:554][379]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.52.52:558][380]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.09.27-06.52.59:079][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.52.59:120][792]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.52.59:120][792]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.52.59:120][792]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-06.52.59:170][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.09.27-06.52.59:268][792]LogSavePackage: Moving output files for package: /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom
+[2023.09.27-06.52.59:269][792]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom0BA0CDE34A2A3D9D6A7E6D82C9D13C16.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Levels/DungeonPrototypeLevel/DungeonTestRoom.umap'
+[2023.09.27-06.52.59:292][792]LogFileHelpers: Saving map 'DungeonTestRoom' took 0.174
+[2023.09.27-06.52.59:302][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 222 ms (total: 3.21 sec)
+[2023.09.27-06.52.59:309][792]AssetCheck: New page: Asset Save: DungeonTestRoom
+[2023.09.27-06.52.59:309][792]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom
+[2023.09.27-06.55.17:650][828]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.55.25:030][289]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.55.53:582][942]BlueprintLog: New page: Compile Inventory_System
+[2023.09.27-06.55.53:682][942]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.55.53:719][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.09.27-06.55.53:952][942]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_25
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.55.53:955][942]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_25
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.55.54:210][944]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_25
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.27-06.55.54:535][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.55.54:641][962]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.27-06.55.54:642][962]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System3FE8AE7945B964C34879D8A8D91EEA19.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.27-06.55.54:653][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 3.33 sec)
+[2023.09.27-06.55.54:660][962]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.27-06.55.54:660][962]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.27-06.56.30:948][280]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.56.37:220][636]BlueprintLog: New page: Compile Chest
+[2023.09.27-06.56.37:235][636]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.REINST_Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.27-06.56.37:289][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.09.27-06.56.37:933][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.27-06.56.38:007][659]LogSavePackage: Moving output files for package: /Game/Inventory/Chest
+[2023.09.27-06.56.38:008][659]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/ChestFE8D1A3E435EA493068047B9B3012F47.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Chest.uasset'
+[2023.09.27-06.56.38:019][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 3.42 sec)
+[2023.09.27-06.56.38:027][659]AssetCheck: New page: Asset Save: Chest
+[2023.09.27-06.56.38:027][659]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Chest.Chest
+[2023.09.27-06.56.43:530][836]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.27-06.56.43:542][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.27-06.56.43:542][836]PIE: New page: PIE session: DungeonTestRoom (28/09/2023, 8:56:43 am)
+[2023.09.27-06.56.43:542][836]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.27-06.56.43:575][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033116s)
+[2023.09.27-06.56.43:575][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.033163s)
+[2023.09.27-06.56.43:575][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.27-06.56.43:575][836]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.27-06.56.43:576][836]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.27-06.56.43:576][836]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2023.09.27-06.56.43:606][836]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.09.27-06.56.43:610][836]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.09.27-06.56.43:610][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.27-06.56.43:610][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.27-06.56.43:610][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.27-06.56.43:610][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.27-06.56.43:610][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.27-06.56.43:610][836]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.27-06.56.43:610][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.27-06.56.43:610][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.27-06.56.43:611][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.27-06.56.43:611][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.27-06.56.43:611][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.27-06.56.43:613][836]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.27-06.56.43:674][836]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.27-06.56.43:674][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.27-06.56.43:674][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.27-06.56.43:675][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.27-06.56.43:675][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.09.27-06.56.43:675][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.09.27-06.56.43:678][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.09.27-06.56.43:678][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.09.27-06.56.43:678][836]LogInit: FAudioDevice initialized with ID 15.
+[2023.09.27-06.56.43:678][836]LogAudio: Display: Audio Device (ID: 15) registered with world 'DungeonTestRoom'.
+[2023.09.27-06.56.43:678][836]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.27-06.56.43:681][836]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.27-06.56.43:699][836]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.27-19.56.43
+[2023.09.27-06.56.43:700][836]LogWorld: Bringing up level for play took: 0.018672
+[2023.09.27-06.56.43:703][836]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.09.27-06.56.43:707][836]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.27-06.56.43:707][836]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.27-06.56.43:707][836]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.27-06.56.43:707][836]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.27-06.56.43:707][836]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Content [12/11]!
+[2023.09.27-06.56.43:707][836]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.27-06.56.43:708][836]PIE: Server logged in
+[2023.09.27-06.56.43:709][836]PIE: Play in editor total start time 0.167 seconds.
+[2023.09.27-06.56.43:755][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:756][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:756][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:757][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:758][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:758][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:759][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:760][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:761][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:761][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:762][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:763][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:764][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.43:764][836]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.47:671][ 46]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-06.56.47:904][ 61]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.27-06.56.47:904][ 61]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.27-06.56.47:904][ 61]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.27-06.56.53:519][455]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.27-06.56.53:519][455]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.27-06.56.54:464][521]LogBlueprintUserMessages: [Inventory_System] 
+[2023.09.27-06.56.55:058][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-06.56.55:058][560]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.27-06.56.55:059][560]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.27-06.56.55:061][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-06.56.55:066][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.27-06.56.55:075][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.27-06.56.55:110][560]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.27-06.56.55:110][560]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2023.09.27-06.56.55:110][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.27-06.56.55:112][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.09.27-06.56.55:117][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.27-06.56.55:124][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.09.27-06.56.55:155][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:155][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:155][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:156][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:156][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:157][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:157][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:158][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:158][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:159][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:160][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:160][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:160][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:161][560]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.27-06.56.55:165][561]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.09.27-06.58.41:190][934]LogDerivedDataCache: C:/Users/Gorilla Rig/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.239 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1614 files in 2499 folders with total size 97 MiB.
