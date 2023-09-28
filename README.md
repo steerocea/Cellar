@@ -30,17 +30,28 @@ Secondly, our endeavor into advanced enemy AI and general AI presents another la
 
 These challenging technologies will not only push the boundaries of our development capabilities but also contribute significantly to the depth and replayability of our dungeon crawler. 
 
-## Prototype Information
+# Prototype Information
 
-# Challenging Engine Technology Used / In The Future
+## Challenging Engine Technology Used Currently / In The Future
 
-# Feature List
+## Feature List
 
-# Controls
+Contributions:
 
-# List Of Assets / Templates Used
+burgeskent: Zombie AI, Test Level, Early Procedural Generation
+steerocea: Inventory System, Chest UI
+hawkinlevi: Weapons
+
+## Controls
+WASD - Movement
+Space - Jump
+E - Interact (Chests)
+Left Click - Attack (With Weapon Equipped)
+
+## List Of Assets / Templates Used
 
 Modular Dungeon Assets - Made By loadbrr (https://loafbrr.itch.io/modular-dungeon-tiles-asset)
+Zombie Animations - Taken from Mixamo (https://www.mixamo.com/)
 
 
 
