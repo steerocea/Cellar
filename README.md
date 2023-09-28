@@ -35,7 +35,9 @@ These challenging technologies will not only push the boundaries of our developm
 ## Challenging Engine Technology Used Currently / In The Future
 
 burgeskent:
+
 Animation Retargeting / Blend Space 1D
+
 Blackboard / Behavior Trees
 
 ## Feature List
@@ -43,20 +45,29 @@ Blackboard / Behavior Trees
 Contributions:
 
 burgeskent: Zombie AI, Test Level, Early Procedural Generation
+
 steerocea: Inventory System, Chest UI
+
 hawkinlevi: Weapons
 
 ## Controls
 
 WASD - Movement
+
 Space - Jump
+
 E - Interact (Chests)
+
 Left Click - Attack (With Weapon Equipped)
+
 
 ## List Of Assets / Templates Used
 
-Modular Dungeon Assets - Made By loadbrr (https://loafbrr.itch.io/modular-dungeon-tiles-asset)
+Modular Dungeon Assets - Made By loadbrr (https://loafbrr.itch.io/
+modular-dungeon-tiles-asset)
+
 Zombie Animations - Taken from Mixamo (https://www.mixamo.com/)
+
 Zombie Model - Made by Moddlers (https://www.turbosquid.com/3d-models/free-x-model-zombie/1012761)
 
 
