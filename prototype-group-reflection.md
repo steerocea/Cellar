@@ -1,6 +1,6 @@
 # Prototype Group Reflection 
 
-brief summary of group reflection (how we worked together maybe)
+Overall we believe as a team we worked well together to get this prototype and working by the deadline. Of course being a smaller group of only 3 comes with its challenges especially when working with deadlines, significant amounts of work, and also other university projects on the side, however, through our effective communication and work delegation we made it work and work well. 
 
 ## Levi (Weapons):
 
@@ -27,7 +27,12 @@ I also started on the early implementation of the Procedural system, where I hav
 
 ## Ocean (UI / Inventory):
 
-Solo reflection on your part of the assignment 
+Overall the setup and execution of the inventory / chest system went relatively smoothly thanks to the abundance of online resources covering the topic. Although, there were still many difficulties in the process that came with the intricacies of so many different blueprints intertwining and working with each other. 
+
+In particular getting lost within the happenings of each blueprint especially in the more robust ones such the InventorySystem and InventoryComponent, knowing when and where to use it variable also became quite the difficulty such as which inventory is currently being access (chest or player) and updating the inventory accordingly such as when an item is dragged and dropped out of a chest. To solve this issue I added grouping and comments to blueprints that were particularly robust and confusing. Some challenging calculations were also made around stacking items on top of each other and accounting for overflow and stack size, as well as swapping positions with items not sharing the same ID when using the drag and swap. 
+
+Overall, I am very happy with the way I have set up the inventory system which is in a way that will make it easily expandable due to features such as the data table allowing us to easily add new item as well as new variables such as potential item stats / abilities. My next step for this system building off the prototype would be to implement an equipping and use system allowing armour and weapons to be equipped to the player and consumables to be used with their effects being activated
+
 
 
 
