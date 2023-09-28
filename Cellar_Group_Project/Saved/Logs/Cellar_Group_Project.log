@@ -1324,3 +1324,101 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.28-02.17.41:007][876]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.28-02.17.41:007][876]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.09.28-02.17.41:013][877]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:875][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:876][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:876][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:876][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:876][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:877][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:877][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:877][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:878][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:878][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:878][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:878][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.00:879][268]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:091][737]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-02.28.07:100][737]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-02.28.07:100][737]PIE: New page: PIE session: DungeonTestRoom (29/09/2023, 4:28:07 am)
+[2023.09.28-02.28.07:123][737]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.28.07:142][737]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019245s)
+[2023.09.28-02.28.07:142][737]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.019284s)
+[2023.09.28-02.28.07:142][737]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.28.07:142][737]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.28.07:143][737]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.28-02.28.07:143][737]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2023.09.28-02.28.07:150][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.09.28-02.28.07:151][737]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.28-02.28.07:151][737]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-02.28.07:151][737]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-02.28.07:151][737]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-02.28.07:151][737]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-02.28.07:151][737]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.28-02.28.07:151][737]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-02.28.07:151][737]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.28-02.28.07:151][737]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-02.28.07:151][737]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-02.28.07:151][737]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-02.28.07:151][737]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-02.28.07:153][737]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-02.28.07:166][737]LogAudioMixer: Display: Using Audio Hardware Device Speakers (HyperX Quadcast)
+[2023.09.28-02.28.07:166][737]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-02.28.07:166][737]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-02.28.07:166][737]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-02.28.07:167][737]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.28-02.28.07:167][737]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.09.28-02.28.07:168][737]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.28-02.28.07:168][737]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.28-02.28.07:168][737]LogInit: FAudioDevice initialized with ID 4.
+[2023.09.28-02.28.07:168][737]LogAudio: Display: Audio Device (ID: 4) registered with world 'DungeonTestRoom'.
+[2023.09.28-02.28.07:168][737]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.28-02.28.07:171][737]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.28-02.28.07:181][737]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.28-15.28.07
+[2023.09.28-02.28.07:181][737]LogWorld: Bringing up level for play took: 0.010082
+[2023.09.28-02.28.07:183][737]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2023.09.28-02.28.07:186][737]PIE: Server logged in
+[2023.09.28-02.28.07:187][737]PIE: Play in editor total start time 0.086 seconds.
+[2023.09.28-02.28.07:206][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:207][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:207][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:207][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:207][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:208][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:208][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:208][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:209][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:209][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:209][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.07:210][737]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.09:972][998]LogBlueprintUserMessages: [Inventory_System] Open Chest (Press E)
+[2023.09.28-02.28.10:294][ 25]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.28-02.28.10:781][ 68]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.28-02.28.10:948][ 83]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.28-02.28.11:932][162]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.28.11:932][162]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.28.11:932][162]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.28-02.28.12:603][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.28.12:603][215]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.28.12:615][215]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-02.28.12:616][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.28.12:618][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-02.28.12:620][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.28.12:627][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.28.12:629][215]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.28-02.28.12:629][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.28-02.28.12:631][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.28-02.28.12:637][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.09.28-02.28.12:655][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:655][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:656][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:656][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:656][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:656][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:657][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:657][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:657][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:658][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:658][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:659][215]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.28.12:687][217]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.09.28-02.28.13:073][247]Cmd: SELECT NONE
