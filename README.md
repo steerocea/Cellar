@@ -13,7 +13,9 @@
 🦉Owl - Levi
 
 # Video
-Link to video - https://youtu.be/leZ0Brmr15c
+Link to setup video (part 1) - https://youtu.be/leZ0Brmr15c
+
+Link to prototype video (part 2) - 
 
 # Game Description
 
@@ -51,6 +53,8 @@ WASD - Movement
 Space - Jump
 
 E - Interact (Chests)
+
+I - Open Inventory
 
 Left Click - Attack (With Weapon Equipped)
 
