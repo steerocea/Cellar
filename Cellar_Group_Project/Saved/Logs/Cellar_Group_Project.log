@@ -1381,3 +1381,1016 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.09.28-02.31.01:229][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 242 ms)
 [2023.09.28-02.31.01:237][179]AssetCheck: New page: Asset Save: W_InteractText
 [2023.09.28-02.31.01:237][179]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Inventory/UI/W_InteractText.W_InteractText
+[2023.09.28-02.31.23:603][622]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:618][623]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:632][624]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:648][625]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:663][626]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:678][627]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:696][628]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:711][629]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:728][630]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:747][631]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:765][632]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:782][633]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:928][642]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:943][643]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:960][644]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.23:976][645]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_1
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.09.28-02.31.24:812][691]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.31.24:828][692]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.31.24:843][693]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.31.24:858][694]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.31.24:873][695]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.31.24:890][696]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.31.31:010][ 66]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.28-02.31.31:010][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.31.31:010][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.31.47:495][877]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.31.53:177][146]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/ItemDataComponent.ItemDataComponent
+[2023.09.28-02.31.53:177][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.31.53:177][146]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.35.38:117][233]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.38:630][257]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.38:649][258]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.38:669][259]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.38:689][260]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.38:707][261]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.38:736][262]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.38:751][263]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.38:772][264]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_1
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:011C
+[2023.09.28-02.35.42:862][462]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/W_InventoryGrid.W_InventoryGrid
+[2023.09.28-02.35.42:862][462]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.35.42:862][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.35.42:889][462]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.35.42:889][462]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.36.08:179][727]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Inventory/UI/W_InventorySlot.W_InventorySlot
+[2023.09.28-02.36.08:179][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.36.08:179][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.36.08:203][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.36.08:203][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.38.03:134][265]BlueprintLog: New page: Compile Inventory_System
+[2023.09.28-02.38.03:232][265]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.28-02.38.03:275][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.09.28-02.38.03:890][288]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-02.38.04:024][288]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.28-02.38.04:025][288]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System22B27FDC469F40C3F44539A5E0BD44C8.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.28-02.38.04:036][288]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 388 ms)
+[2023.09.28-02.38.04:045][288]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.28-02.38.04:045][288]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.28-02.38.06:578][426]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-02.38.06:591][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-02.38.06:591][426]PIE: New page: PIE session: DungeonTestRoom (29/09/2023, 4:38:06 am)
+[2023.09.28-02.38.06:591][426]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.38.06:624][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032460s)
+[2023.09.28-02.38.06:624][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.032502s)
+[2023.09.28-02.38.06:624][426]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.38.06:624][426]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.38.06:624][426]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.28-02.38.06:625][426]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2023.09.28-02.38.06:658][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.09.28-02.38.06:662][426]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.09.28-02.38.06:662][426]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-02.38.06:662][426]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-02.38.06:662][426]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-02.38.06:662][426]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-02.38.06:662][426]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.28-02.38.06:662][426]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-02.38.06:663][426]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.28-02.38.06:663][426]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-02.38.06:663][426]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-02.38.06:663][426]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-02.38.06:663][426]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-02.38.06:665][426]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-02.38.06:725][426]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.28-02.38.06:726][426]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-02.38.06:726][426]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-02.38.06:726][426]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-02.38.06:726][426]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.09.28-02.38.06:726][426]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.09.28-02.38.06:729][426]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.09.28-02.38.06:729][426]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.09.28-02.38.06:729][426]LogInit: FAudioDevice initialized with ID 3.
+[2023.09.28-02.38.06:729][426]LogAudio: Display: Audio Device (ID: 3) registered with world 'DungeonTestRoom'.
+[2023.09.28-02.38.06:729][426]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.09.28-02.38.06:732][426]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.28-02.38.06:750][426]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.28-15.38.06
+[2023.09.28-02.38.06:751][426]LogWorld: Bringing up level for play took: 0.018830
+[2023.09.28-02.38.06:754][426]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.09.28-02.38.06:758][426]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.38.06:758][426]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.38.06:758][426]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.38.06:759][426]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.38.06:759][426]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Content [12/11]!
+[2023.09.28-02.38.06:759][426]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.38.06:759][426]PIE: Server logged in
+[2023.09.28-02.38.06:760][426]PIE: Play in editor total start time 0.17 seconds.
+[2023.09.28-02.38.06:762][426]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.06:763][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.06:763][426]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.06:763][426]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.06:798][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:798][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:799][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:800][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:800][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:801][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:801][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:802][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:803][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:803][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:804][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:805][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:806][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:807][426]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.06:813][427]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.06:813][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.06:813][427]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.06:813][427]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.06:897][428]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.06:897][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.06:897][428]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.06:897][428]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:458][429]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:458][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:458][429]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:458][429]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:475][430]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:476][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:476][430]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:476][430]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:498][431]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:498][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:498][431]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:498][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:521][432]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:521][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:521][432]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:521][432]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:539][433]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:539][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:539][433]LogScript: Warning: Accessed None trying to read property InteractText
+	Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.Inventory_System
+	Function /Game/Inventory/Inventory_System.Inventory_System_C:InteractionTrace:0491
+[2023.09.28-02.38.07:539][433]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:561][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:561][434]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:580][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:581][435]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:599][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:599][436]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:617][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:617][437]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:637][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:638][438]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:656][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:656][439]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:673][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:673][440]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:693][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:693][441]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:711][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:711][442]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:728][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:728][443]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:747][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:747][444]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:765][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:765][445]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:786][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:786][446]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:807][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:808][447]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:831][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:831][448]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:850][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:850][449]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:865][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:865][450]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:884][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:884][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:901][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:901][452]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:918][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:918][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:939][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:939][454]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:955][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:956][455]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:975][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:976][456]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:993][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.07:993][457]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:010][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:010][458]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:029][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:029][459]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:049][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:049][460]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:070][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:070][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:088][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:088][462]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:108][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:108][463]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:128][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:129][464]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:146][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:146][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:170][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:170][466]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:189][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:189][467]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:209][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:210][468]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:228][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:228][469]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:248][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:248][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:267][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:267][471]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:289][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:289][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:307][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:307][473]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:326][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:327][474]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:345][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:345][475]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:364][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:364][476]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:384][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:384][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:403][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:403][478]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:423][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:423][479]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:442][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:442][480]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:463][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:463][481]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:482][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:482][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:504][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:504][483]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:522][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:523][484]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:544][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:544][485]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:562][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:563][486]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:584][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:584][487]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:605][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:605][488]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:627][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:627][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:643][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:643][490]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:664][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:664][491]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:682][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:682][492]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:701][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:701][493]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:721][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:721][494]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:739][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:739][495]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:759][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:759][496]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:777][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:778][497]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:799][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:799][498]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:817][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:818][499]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:834][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:834][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:853][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:853][501]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:871][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:871][502]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:889][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:890][503]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:909][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:909][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:927][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:927][505]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:947][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:947][506]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:966][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:966][507]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:985][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.08:986][508]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:003][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:003][509]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:020][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:020][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:041][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:041][511]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:059][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:059][512]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:080][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:080][513]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:098][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:099][514]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:118][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:118][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:138][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:138][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:157][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:157][517]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:176][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:176][518]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:196][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:196][519]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:212][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:213][520]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:232][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:233][521]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:252][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:252][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:273][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:274][523]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:293][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:294][524]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:314][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:314][525]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:333][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:333][526]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:352][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:353][527]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:371][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:371][528]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:392][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:392][529]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:411][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:411][530]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:432][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:432][531]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:449][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:449][532]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:469][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:469][533]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:489][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:489][534]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:508][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:508][535]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:528][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:529][536]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:547][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:547][537]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:568][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:568][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:588][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:588][539]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:607][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:607][540]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:626][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:627][541]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:644][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:645][542]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:664][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:665][543]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:684][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:685][544]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:701][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:701][545]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:720][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:721][546]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:738][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:739][547]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:757][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:757][548]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:777][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:777][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:795][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:795][550]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:814][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:814][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:832][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:832][552]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:851][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:851][553]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:871][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:871][554]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:889][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:889][555]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:908][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:908][556]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:926][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:926][557]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:945][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:945][558]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:963][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:963][559]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:981][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.09:981][560]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:000][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:001][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:018][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:018][562]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:036][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:036][563]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:055][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:055][564]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:072][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:072][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:091][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:091][566]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:109][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:109][567]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:129][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:129][568]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:145][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:145][569]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:163][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:163][570]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:180][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:180][571]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:196][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:196][572]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:212][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:212][573]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:227][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:227][574]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:246][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:246][575]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:262][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:262][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:279][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:279][577]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:296][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:296][578]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:314][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:314][579]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:330][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:330][580]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:348][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:349][581]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:366][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:366][582]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:383][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:383][583]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:400][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:400][584]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:417][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:417][585]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:434][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:434][586]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:451][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:451][587]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:474][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:475][588]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:491][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:491][589]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:510][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:510][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:527][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:527][591]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:543][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:543][592]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:559][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:559][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:574][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:575][594]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:591][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:592][595]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:609][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:609][596]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:626][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:626][597]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:641][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:641][598]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:655][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:655][599]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:671][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:672][600]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:687][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:687][601]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:703][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:704][602]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:719][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:719][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:735][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:735][604]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:752][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:752][605]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:768][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:769][606]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:784][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:784][607]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:800][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:800][608]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:817][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:817][609]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:832][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:832][610]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:848][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:848][611]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:864][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:864][612]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:880][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:880][613]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:896][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:896][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:913][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:914][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:929][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:929][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:946][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:946][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:964][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:965][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:980][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:981][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:996][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.10:997][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:015][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:015][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:031][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:031][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:049][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:049][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:065][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:065][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:082][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:083][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:100][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:100][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:117][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:118][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:135][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.11:135][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property InteractText". Node:  Remove from Parent Graph:  InteractionTrace Function:  Interaction Trace Blueprint:  Inventory_System
+[2023.09.28-02.38.15:873][924]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.38.15:874][924]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.38.15:874][924]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.28-02.38.16:563][971]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.28-02.38.16:563][971]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.28-02.38.20:970][245]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.28-02.38.21:144][256]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.28-02.38.21:284][265]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.09.28-02.38.24:800][482]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.38.24:801][482]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.38.24:801][482]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.28-02.38.25:118][504]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.28-02.38.25:118][504]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.28-02.38.26:219][571]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.38.26:220][571]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.38.26:220][571]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.28-02.38.26:695][601]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.28-02.38.26:695][601]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.28-02.38.29:538][776]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.38.29:539][776]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.38.29:539][776]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.28-02.38.29:837][797]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.28-02.38.29:837][797]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.28-02.38.30:088][813]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.38.30:089][813]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.38.30:089][813]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.28-02.38.30:303][829]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.28-02.38.30:304][829]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.28-02.38.32:327][958]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.38.32:327][958]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.38.32:327][958]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.28-02.38.32:844][992]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.28-02.38.32:844][992]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.28-02.38.34:487][ 88]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.38.34:487][ 88]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.38.34:487][ 88]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.38.34:487][ 88]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.38.34:487][ 88]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Content [12/11]!
+[2023.09.28-02.38.34:487][ 88]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.38.35:371][143]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.38.35:372][143]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.38.35:372][143]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.09.28-02.38.35:882][175]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.28-02.38.35:882][175]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.28-02.38.36:537][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.38.36:537][213]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.38.36:538][213]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-02.38.36:540][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.38.36:545][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-02.38.36:559][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.38.36:593][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-02.38.36:594][213]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.09.28-02.38.36:594][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.28-02.38.36:596][213]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.09.28-02.38.36:601][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.38.36:638][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.09.28-02.38.36:743][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:744][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:744][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:745][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:745][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:746][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:746][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:747][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:748][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:748][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:749][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:750][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:750][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:751][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.38.36:784][214]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.09.28-02.39.34:104][964]BlueprintLog: New page: Compile Inventory_System
+[2023.09.28-02.39.34:184][964]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.28-02.39.34:220][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.09.28-02.39.34:666][978]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-02.39.34:793][978]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.28-02.39.34:794][978]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemCBDA618E4EB13C37DE997DA2A4797DA7.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.28-02.39.34:805][978]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 526 ms)
+[2023.09.28-02.39.34:815][978]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.28-02.39.34:815][978]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.28-02.39.36:742][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-02.39.36:755][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-02.39.36:755][ 74]PIE: New page: PIE session: DungeonTestRoom (29/09/2023, 4:39:36 am)
+[2023.09.28-02.39.36:787][ 74]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.39.36:821][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033466s)
+[2023.09.28-02.39.36:821][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.033526s)
+[2023.09.28-02.39.36:821][ 74]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.39.36:821][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.39.36:822][ 74]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.28-02.39.36:822][ 74]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2023.09.28-02.39.36:855][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.09.28-02.39.36:860][ 74]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.09.28-02.39.36:860][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-02.39.36:860][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-02.39.36:860][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-02.39.36:860][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-02.39.36:860][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.28-02.39.36:860][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-02.39.36:860][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.28-02.39.36:860][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-02.39.36:861][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-02.39.36:861][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-02.39.36:861][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-02.39.36:863][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-02.39.36:924][ 74]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.28-02.39.36:924][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-02.39.36:924][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-02.39.36:924][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-02.39.36:925][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.09.28-02.39.36:925][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.09.28-02.39.36:927][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.09.28-02.39.36:927][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.09.28-02.39.36:927][ 74]LogInit: FAudioDevice initialized with ID 4.
+[2023.09.28-02.39.36:927][ 74]LogAudio: Display: Audio Device (ID: 4) registered with world 'DungeonTestRoom'.
+[2023.09.28-02.39.36:927][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.28-02.39.36:931][ 74]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.28-02.39.36:949][ 74]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.28-15.39.36
+[2023.09.28-02.39.36:950][ 74]LogWorld: Bringing up level for play took: 0.019419
+[2023.09.28-02.39.36:953][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.09.28-02.39.36:957][ 74]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.39.36:957][ 74]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.39.36:957][ 74]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.39.36:957][ 74]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.39.36:957][ 74]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Content [12/11]!
+[2023.09.28-02.39.36:957][ 74]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.39.36:958][ 74]PIE: Server logged in
+[2023.09.28-02.39.36:959][ 74]PIE: Play in editor total start time 0.204 seconds.
+[2023.09.28-02.39.36:994][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.36:994][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.36:995][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.36:996][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.36:996][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.36:997][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.36:997][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.36:998][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.36:999][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.37:000][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.37:001][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.37:002][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.37:003][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.37:004][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.39:366][170]LogSlate: Window 'Message Log' being destroyed
+[2023.09.28-02.39.39:372][170]LogSlate: Window 'Message Log' being destroyed
+[2023.09.28-02.39.45:407][528]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.09.28-02.39.45:407][528]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.28-02.39.45:407][528]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.28-02.39.46:040][572]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.09.28-02.39.46:040][572]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.09.28-02.39.46:378][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.39.46:378][592]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.39.46:378][592]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-02.39.46:380][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.39.46:385][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-02.39.46:392][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.39.46:422][592]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-02.39.46:426][592]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.09.28-02.39.46:426][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.28-02.39.46:427][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.09.28-02.39.46:433][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.39.46:440][592]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.09.28-02.39.46:474][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:474][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:475][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:475][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:476][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:476][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:477][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:477][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:478][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:478][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:479][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:479][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:480][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:480][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.39.46:485][593]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.09.28-02.41.23:172][201]BlueprintLog: New page: Compile Inventory_System
+[2023.09.28-02.41.23:269][201]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.28-02.41.23:313][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.09.28-02.41.24:313][236]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-02.41.24:450][236]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.09.28-02.41.24:451][236]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_SystemFBE2CC33437BF6A384797DB244E4F2C1.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.09.28-02.41.24:462][236]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 674 ms)
+[2023.09.28-02.41.24:473][236]AssetCheck: New page: Asset Save: Inventory_System
+[2023.09.28-02.41.24:473][236]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.09.28-02.41.26:534][350]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-02.41.26:547][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-02.41.26:547][350]PIE: New page: PIE session: DungeonTestRoom (29/09/2023, 4:41:26 am)
+[2023.09.28-02.41.26:547][350]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.41.26:584][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036117s)
+[2023.09.28-02.41.26:584][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.036171s)
+[2023.09.28-02.41.26:584][350]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.41.26:584][350]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.41.26:584][350]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.28-02.41.26:585][350]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2023.09.28-02.41.26:620][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.09.28-02.41.26:626][350]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.09.28-02.41.26:626][350]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-02.41.26:626][350]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-02.41.26:626][350]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-02.41.26:626][350]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-02.41.26:626][350]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.28-02.41.26:626][350]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-02.41.26:626][350]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.28-02.41.26:626][350]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-02.41.26:627][350]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-02.41.26:627][350]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-02.41.26:627][350]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-02.41.26:629][350]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-02.41.26:689][350]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.28-02.41.26:690][350]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-02.41.26:690][350]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-02.41.26:690][350]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-02.41.26:690][350]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.09.28-02.41.26:690][350]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.09.28-02.41.26:693][350]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.09.28-02.41.26:693][350]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.09.28-02.41.26:693][350]LogInit: FAudioDevice initialized with ID 5.
+[2023.09.28-02.41.26:693][350]LogAudio: Display: Audio Device (ID: 5) registered with world 'DungeonTestRoom'.
+[2023.09.28-02.41.26:693][350]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.09.28-02.41.26:696][350]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.28-02.41.26:716][350]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.28-15.41.26
+[2023.09.28-02.41.26:717][350]LogWorld: Bringing up level for play took: 0.020673
+[2023.09.28-02.41.26:720][350]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.09.28-02.41.26:725][350]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.41.26:725][350]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.41.26:725][350]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.41.26:725][350]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.41.26:725][350]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Content [12/11]!
+[2023.09.28-02.41.26:725][350]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.41.26:726][350]PIE: Server logged in
+[2023.09.28-02.41.26:727][350]PIE: Play in editor total start time 0.18 seconds.
+[2023.09.28-02.41.26:761][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:762][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:762][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:763][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:764][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:765][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:766][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:767][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:768][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:768][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:769][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:770][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:771][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.26:772][350]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:687][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.41.32:687][672]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.41.32:688][672]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-02.41.32:691][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.41.32:695][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-02.41.32:704][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.41.32:740][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-02.41.32:740][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.09.28-02.41.32:740][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.28-02.41.32:742][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.09.28-02.41.32:748][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.41.32:754][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.09.28-02.41.32:787][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:788][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:789][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:789][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:790][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:791][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:791][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:792][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:793][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:793][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:794][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:794][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:795][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:796][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.32:801][673]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.28-02.41.38:122][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.28-02.41.38:180][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.28-02.41.38:180][  1]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.09.28-02.41.38:180][  1]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.41.38:215][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.09.28-02.41.38:319][  1]LogSavePackage: Moving output files for package: /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom
+[2023.09.28-02.41.38:320][  1]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoomF9B50C7741FAC9AA34F721B5F3504846.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Levels/DungeonPrototypeLevel/DungeonTestRoom.umap'
+[2023.09.28-02.41.38:341][  1]LogFileHelpers: Saving map 'DungeonTestRoom' took 0.163
+[2023.09.28-02.41.38:352][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 229 ms (total: 903 ms)
+[2023.09.28-02.41.38:361][  1]AssetCheck: New page: Asset Save: DungeonTestRoom
+[2023.09.28-02.41.38:361][  1]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom
+[2023.09.28-02.41.39:144][ 47]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.28-02.41.39:157][ 47]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.28-02.41.39:157][ 47]PIE: New page: PIE session: DungeonTestRoom (29/09/2023, 4:41:39 am)
+[2023.09.28-02.41.39:157][ 47]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.41.39:189][ 47]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032404s)
+[2023.09.28-02.41.39:190][ 47]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.032469s)
+[2023.09.28-02.41.39:190][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.28-02.41.39:190][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.28-02.41.39:190][ 47]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.09.28-02.41.39:191][ 47]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2023.09.28-02.41.39:222][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.09.28-02.41.39:224][ 47]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.09.28-02.41.39:224][ 47]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.28-02.41.39:224][ 47]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.28-02.41.39:224][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.28-02.41.39:224][ 47]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.28-02.41.39:224][ 47]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.28-02.41.39:224][ 47]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.28-02.41.39:224][ 47]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.28-02.41.39:224][ 47]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.28-02.41.39:225][ 47]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.28-02.41.39:225][ 47]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.28-02.41.39:225][ 47]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.28-02.41.39:227][ 47]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.28-02.41.39:291][ 47]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.09.28-02.41.39:291][ 47]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.28-02.41.39:291][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.28-02.41.39:291][ 47]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.28-02.41.39:292][ 47]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.09.28-02.41.39:292][ 47]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.09.28-02.41.39:295][ 47]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.09.28-02.41.39:295][ 47]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.09.28-02.41.39:295][ 47]LogInit: FAudioDevice initialized with ID 6.
+[2023.09.28-02.41.39:295][ 47]LogAudio: Display: Audio Device (ID: 6) registered with world 'DungeonTestRoom'.
+[2023.09.28-02.41.39:295][ 47]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.09.28-02.41.39:299][ 47]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.09.28-02.41.39:318][ 47]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.09.28-15.41.39
+[2023.09.28-02.41.39:319][ 47]LogWorld: Bringing up level for play took: 0.019809
+[2023.09.28-02.41.39:321][ 47]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.09.28-02.41.39:327][ 47]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.41.39:327][ 47]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.41.39:327][ 47]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.41.39:327][ 47]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.41.39:327][ 47]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Content [12/11]!
+[2023.09.28-02.41.39:327][ 47]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.41.39:327][ 47]PIE: Server logged in
+[2023.09.28-02.41.39:328][ 47]PIE: Play in editor total start time 0.172 seconds.
+[2023.09.28-02.41.39:366][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:367][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:368][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:369][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:369][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:370][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:371][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:372][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:373][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:375][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:376][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:377][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:378][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.39:379][ 47]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.41.58:818][168]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.41.58:818][168]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.41.58:818][168]LogScript: Warning: Script Msg: Attempted to access index 12 from array 'Content' of length 12 in '/Game/Inventory/Inventory_System.Inventory_System_C'!
+[2023.09.28-02.41.58:818][168]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.41.58:818][168]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Content [12/11]!
+[2023.09.28-02.41.58:818][168]LogScript: Warning: Script Msg called by: Inventory_System_C /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.Inventory_System
+[2023.09.28-02.42.03:977][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.42.03:978][474]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.09.28-02.42.03:978][474]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.09.28-02.42.03:980][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.42.03:984][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.28-02.42.03:992][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.28-02.42.04:023][474]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.28-02.42.04:024][474]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.09.28-02.42.04:024][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.28-02.42.04:026][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.09.28-02.42.04:031][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.28-02.42.04:040][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.09.28-02.42.04:073][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:073][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:074][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:074][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:075][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:075][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:076][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:077][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:077][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:078][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:078][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:079][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:079][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:080][474]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.09.28-02.42.04:084][475]LogPlayLevel: Display: Destroying online subsystem :Context_16
