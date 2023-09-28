@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Cellar_Group_Project/Saved/Logs/Cellar_Group_Project.log
