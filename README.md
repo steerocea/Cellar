@@ -37,7 +37,7 @@ These challenging technologies will not only push the boundaries of our developm
 burgeskent:
 
 Animation Retargeting / Blend Space 1D
-Blackboard / Behavior Trees
+\nBlackboard / Behavior Trees
 
 ## Feature List
 
