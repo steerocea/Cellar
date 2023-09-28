@@ -37,7 +37,6 @@ These challenging technologies will not only push the boundaries of our developm
 burgeskent:
 
 Animation Retargeting / Blend Space 1D
-
 Blackboard / Behavior Trees
 
 ## Feature List
@@ -45,9 +44,7 @@ Blackboard / Behavior Trees
 Contributions:
 
 burgeskent: Zombie AI, Test Level, Early Procedural Generation
-
 steerocea: Inventory System, Chest UI
-
 hawkinlevi: Weapons
 
 ## Controls
