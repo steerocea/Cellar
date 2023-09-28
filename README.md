@@ -34,17 +34,14 @@ These challenging technologies will not only push the boundaries of our developm
 
 ## Challenging Engine Technology Used Currently / In The Future
 
-burgeskent:
-
-Animation Retargeting / Blend Space 1D
-\nBlackboard / Behavior Trees
+burgeskent: Animation Retargeting, Blend Space 1D,  Blackboard, Behavior Trees
 
 ## Feature List
 
-Contributions:
-
 burgeskent: Zombie AI, Test Level, Early Procedural Generation
+
 steerocea: Inventory System, Chest UI
+
 hawkinlevi: Weapons
 
 ## Controls
