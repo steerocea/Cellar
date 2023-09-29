@@ -15,7 +15,7 @@
 # Video
 Link to setup video (part 1) - https://youtu.be/leZ0Brmr15c
 
-Link to prototype video (part 2) - 
+Link to prototype video (part 2) - https://youtu.be/1uYpE-SLAcg
 
 # Game Description
 
@@ -37,6 +37,8 @@ These challenging technologies will not only push the boundaries of our developm
 ## Challenging Engine Technology Used Currently / In The Future
 
 burgeskent: Animation Retargeting, Blend Space 1D,  Blackboard, Behavior Trees
+
+steerocea: Inventory System Blueprint, Drag & Drop / Swap, Interaction System, Item Stacking / Overflowing
 
 ## Feature List
 
