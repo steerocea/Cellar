@@ -40,6 +40,8 @@ burgeskent: Animation Retargeting, Blend Space 1D,  Blackboard, Behavior Trees
 
 steerocea: Inventory System Blueprint, Drag & Drop / Swap, Interaction System, Item Stacking / Overflowing
 
+Hawkinlevi: Animation Creation, Animation State Diagrams, Ray Casts / Line Casts
+
 ## Feature List
 
 burgeskent: Zombie AI, Test Level, Early Procedural Generation
@@ -69,6 +71,8 @@ modular-dungeon-tiles-asset)
 Zombie Animations - Taken from Mixamo (https://www.mixamo.com/)
 
 Zombie Model - Made by Moddlers (https://www.turbosquid.com/3d-models/free-x-model-zombie/1012761)
+
+Short Sword model - Taken from Unreal asset store(https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-weapons)
 
 
 
