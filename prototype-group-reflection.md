@@ -4,9 +4,7 @@ Overall we believe as a team we worked well together to get this prototype and w
 
 ## Levi (Weapons):
 
-Overall the implementation of the weapons was not too difficult but many parts of it were still very time consuming such as trying to find sword models that would work for our game aswell as learning many mechanics that I had not used before such as the animation system. My work involved creating a weapon asset and allowing the player to pick it up and use it to damage an enemy. This required me to learn how to create animations and how to implement them into the state diagram for animations which would allow the player to go back to idle or running animations after the swing was finished. I also learnt a bit about line casts with vectors which I used to find wher the player was looking in order to deal damage.
-
-Another thing that I learnt whilst creating the prototype was how best to work with the others including how to properly use gitlab as this is a fairly new experience for me. I had to get help with merging and dealing with changes at first but i am now feeling more confident in my abilites. I also had to make my weapons interact with the enemies that i had not created which required me to read through those blueprints and base the damage dealing and enemy detecting on how the enemy worked. The weapons that i create also need to be compatable with an inventory system so i made sure to include functions for equip aswell as unequip in order for it to be easy to do from the inventory. 
+Solo reflection on your part of the assignment 
 
 ## Kent (AI/Map):
 
