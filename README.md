@@ -15,7 +15,7 @@
 # Video
 Link to setup video (part 1) - https://youtu.be/leZ0Brmr15c
 
-Link to prototype video (part 2) - 
+Link to prototype video (part 2) - https://youtu.be/1uYpE-SLAcg
 
 # Game Description
 
@@ -37,6 +37,10 @@ These challenging technologies will not only push the boundaries of our developm
 ## Challenging Engine Technology Used Currently / In The Future
 
 burgeskent: Animation Retargeting, Blend Space 1D,  Blackboard, Behavior Trees
+
+steerocea: Inventory System Blueprint, Drag & Drop / Swap, Interaction System, Item Stacking / Overflowing
+
+Hawkinlevi: Animation Creation, Animation State Diagrams, Ray Casts / Line Casts
 
 ## Feature List
 
@@ -67,6 +71,8 @@ modular-dungeon-tiles-asset)
 Zombie Animations - Taken from Mixamo (https://www.mixamo.com/)
 
 Zombie Model - Made by Moddlers (https://www.turbosquid.com/3d-models/free-x-model-zombie/1012761)
+
+Short Sword model - Taken from Unreal asset store(https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-weapons)
 
 
 
