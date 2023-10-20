@@ -279,6 +279,21 @@
 				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/scene_Anim.uasset",
 				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/scene_PhysicsAsset.uasset",
 				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/Arrow.uasset",
+<<<<<<< Updated upstream
+=======
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/Arrow.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/Arrow_Arrow_0.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/arrow_texture_1.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/arrow_texture_2.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/bow_and_arrow_rigged_free_download_Anim.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/bow_and_arrow_rigged_free_download_texture_0.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/bow_and_arrow_rigged_free_download_texture_1.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/Bowstring_Bow_0__rootJoint.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/Bowstring_Bow_0__rootJoint_PhysicsAsset.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/Bowstring_Bow_0__rootJoint_Skeleton.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/initialShadingGroup.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/material.uasset",
+>>>>>>> Stashed changes
 				"C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/FSlotStruct.uasset",
 				"C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset",
 				"C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
