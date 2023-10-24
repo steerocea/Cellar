@@ -2537,3 +2537,74 @@ Please see Output Log for details.
 [2023.10.24-06.30.33:433][473]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.39 sec)
 [2023.10.24-06.30.33:442][473]AssetCheck: New page: Asset Save: W_GameOver
 [2023.10.24-06.30.33:442][473]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/PlayerUI/W_GameOver.W_GameOver
+[2023.10.24-06.33.18:919][225]LogContentBrowser: Deferred new asset file creation: W_GameOver1
+[2023.10.24-06.33.18:955][225]LogContentBrowser: Creating deferred item: W_GameOver1
+[2023.10.24-06.33.19:009][226]LogContentBrowser: Renaming the item being created (Deferred Item: W_GameOver1).
+[2023.10.24-06.33.22:632][386]LogContentBrowser: Attempting asset rename: W_GameOver1 -> W_Escaped
+[2023.10.24-06.33.22:679][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.10.24-06.33.22:698][386]LogContentBrowser: End creating deferred item W_GameOver1
+[2023.10.24-06.33.23:853][430]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PlayerUI/W_Escaped.W_Escaped
+[2023.10.24-06.33.23:854][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-06.33.23:854][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-06.33.23:881][430]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.24-06.33.23:881][430]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: ================================================
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Total job queries 66, among them cache hits 2 (3.03%)
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Tracking 64 distinct input hashes that result in 43 distinct outputs (67.19%)
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: RAM used: 1.44 MiB of 1.60 GiB budget. Usage: 0.09%
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Shaders Compiled: 2
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 1.77 s
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Job life time (pending + execution): average 1.82 s, max 1.82
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.82 s
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Average processing rate: 1.10 jobs/sec
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Total thread time: 0.974 s
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Total thread preprocess time: 0.069 s
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Percentage time preprocessing: 7.07%
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Effective parallelization: 0.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display:                          TSlateMaterialShaderPSGrayscaleFont (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display:                          TSlateMaterialShaderPSGrayscaleFont - 52.28% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display:                                  TSlateMaterialShaderVSfalse - 47.72% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2023.10.24-06.33.34:870][859]LogShaderCompilers: Display: ================================================
+[2023.10.24-06.33.50:464][101]LogInterchangeEngine: [Pending] Importing
+[2023.10.24-06.33.50:464][101]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Gorill.../Photoshop Imgsescaped.png]
+[2023.10.24-06.33.50:474][101]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.10.24-06.33.50:497][102]LogTexture: Display: Building textures: /Game/Inventory/GameIcons/escaped.escaped (TFO_AutoDXT, 1080x400 x1x1x1) (Required Memory Estimate: 52.489258 MB), EncodeSpeed: Fast
+[2023.10.24-06.33.50:530][102]LogInterchangeEngine: [Success] Import Done
+[2023.10.24-06.33.50:541][102]LogInterchangeEngine: [Success] Import Done
+[2023.10.24-06.33.58:960][404]BlueprintLog: New page: Compile W_Escaped
+[2023.10.24-06.33.59:013][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.10.24-06.33.59:617][426]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-06.33.59:689][426]LogSavePackage: Moving output files for package: /Game/PlayerUI/W_Escaped
+[2023.10.24-06.33.59:689][426]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/W_Escaped37CF7F814550632BBD2EC8807032B269.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/PlayerUI/W_Escaped.uasset'
+[2023.10.24-06.33.59:703][426]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2.48 sec)
+[2023.10.24-06.33.59:712][426]AssetCheck: New page: Asset Save: W_Escaped
+[2023.10.24-06.33.59:712][426]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/PlayerUI/W_Escaped.W_Escaped
+[2023.10.24-06.35.23:361][852]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.24-06.35.25:730][956]BlueprintLog: New page: Compile W_Escaped
+[2023.10.24-06.35.25:789][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.10.24-06.35.26:687][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-06.35.26:762][991]LogSavePackage: Moving output files for package: /Game/PlayerUI/W_Escaped
+[2023.10.24-06.35.26:764][991]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/W_EscapedCC47C43640DE7A84697897BEFB9C143E.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/PlayerUI/W_Escaped.uasset'
+[2023.10.24-06.35.26:776][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2.56 sec)
+[2023.10.24-06.35.26:788][991]AssetCheck: New page: Asset Save: W_Escaped
+[2023.10.24-06.35.26:788][991]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/PlayerUI/W_Escaped.W_Escaped
+[2023.10.24-06.36.07:517][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-06.36.07:584][465]LogSavePackage: Moving output files for package: /Game/Inventory/GameIcons/escaped
+[2023.10.24-06.36.07:584][465]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/escapedB5E370564CADFB3962437FAA3460CBF2.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/GameIcons/escaped.uasset'
+[2023.10.24-06.36.07:595][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 2.64 sec)
+[2023.10.24-06.36.07:606][465]AssetCheck: New page: Asset Save: escaped
+[2023.10.24-06.36.07:606][465]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Inventory/GameIcons/escaped.escaped
+[2023.10.24-06.36.11:422][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.24-06.36.11:479][617]LogSavePackage: Moving output files for package: /Game/Inventory/GameIcons/gameover
+[2023.10.24-06.36.11:479][617]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/gameoverB11C06A3400F1B8966F7E88DBDB6E771.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/GameIcons/gameover.uasset'
+[2023.10.24-06.36.11:490][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.71 sec)
+[2023.10.24-06.36.11:502][617]AssetCheck: New page: Asset Save: gameover
+[2023.10.24-06.36.11:502][617]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Inventory/GameIcons/gameover.gameover
