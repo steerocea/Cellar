@@ -1,27 +1,27 @@
-# Name: Kent Burgess
-# Username: burgeskent
-# Project Role: Enemies, Map Design, Procedural Generation
-# Animal Role: Wolf
+## Name: Kent Burgess
+## Username: burgeskent
+## Project Role: Enemies, Map Design, Procedural Generation
+## Animal Role: Wolf
 
-## Group Contribution:
-# My Contribution To The Group / My Communication Role:
+# Group Contribution:
+## My Contribution To The Group / My Communication Role:
 
-# Group Dynamics:
+## Group Dynamics:
 
-## Code Discussion:
-# Parts Of The Project I Worked On:
+# Code Discussion:
+## Parts Of The Project I Worked On:
 
-# Code Discussion Video:
+## Code Discussion Video:
 
-# Most Interesting Blueprint I Wrote:
+## Most Interesting Blueprint I Wrote:
 
-# The Blueprints I Am Most Proud Of:
+## The Blueprints I Am Most Proud Of:
 
-# My Worst Blueprint Code:
+## My Worst Blueprint Code:
 
-# My Use Of ChatGPT:
+## My Use Of ChatGPT:
 
-## Learning Reflection:
-# What I Learnt From This Project:
+# Learning Reflection:
+## What I Learnt From This Project:
 
-# Most Important Thing I Wil Use In Future Projects:
+## Most Important Thing I Wil Use In Future Projects:
