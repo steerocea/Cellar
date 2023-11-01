@@ -1,7 +1,8 @@
-## Name: Kent Burgess
-## Username: burgeskent
-## Project Role: Enemies, Map Design, Procedural Generation
-## Animal Role: Wolf
+ # Info
+ Name: Kent Burgess
+ Username: burgeskent
+ Project Role: Enemies, Map Design, Procedural Generation
+ Animal Role: Wolf
 
 # Group Contribution:
 ## My Contribution To The Group / My Communication Role:
