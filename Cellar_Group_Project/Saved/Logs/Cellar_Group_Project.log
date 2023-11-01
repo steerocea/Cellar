@@ -2459,3 +2459,110 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.01-21.12.42:915][857]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 760 ms)
 [2023.11.01-21.12.42:925][857]AssetCheck: New page: Asset Save: W_ActionMenu
 [2023.11.01-21.12.42:925][857]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Inventory/UI/W_ActionMenu.W_ActionMenu
+[2023.11.01-21.15.21:271][548]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_4
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.11.01-21.15.21:292][549]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_4
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.11.01-21.15.21:313][550]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_4
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.11.01-21.15.21:425][555]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	W_InventorySlot_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_InventorySlot_C_4
+	Function /Game/Inventory/UI/W_InventorySlot.W_InventorySlot_C:ExecuteUbergraph_W_InventorySlot:00BC
+[2023.11.01-21.15.21:444][556]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	W_InventorySlot_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_InventorySlot_C_4
+	Function /Game/Inventory/UI/W_InventorySlot.W_InventorySlot_C:ExecuteUbergraph_W_InventorySlot:00BC
+[2023.11.01-21.15.21:673][567]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0333
+[2023.11.01-21.15.21:673][567]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00AC
+[2023.11.01-21.15.21:693][568]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0333
+[2023.11.01-21.15.21:693][568]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00AC
+[2023.11.01-21.15.21:714][569]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0333
+[2023.11.01-21.15.21:714][569]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00AC
+[2023.11.01-21.15.21:735][570]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0333
+[2023.11.01-21.15.21:735][570]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00AC
+[2023.11.01-21.15.21:755][571]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0333
+[2023.11.01-21.15.21:755][571]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00AC
+[2023.11.01-21.15.21:777][572]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0333
+[2023.11.01-21.15.21:778][572]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00AC
+[2023.11.01-21.15.21:797][573]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0333
+[2023.11.01-21.15.21:797][573]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00AC
+[2023.11.01-21.15.21:817][574]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:0333
+[2023.11.01-21.15.21:817][574]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_1
+	W_PlayerMenu_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_PlayerMenu_C_4
+	Function /Game/Inventory/UI/W_PlayerMenu.W_PlayerMenu_C:ExecuteUbergraph_W_PlayerMenu:00AC
+[2023.11.01-21.15.21:862][576]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	W_InventorySlot_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_InventorySlot_C_4
+	Function /Game/Inventory/UI/W_InventorySlot.W_InventorySlot_C:ExecuteUbergraph_W_InventorySlot:00BC
+[2023.11.01-21.15.21:883][577]LogScript: Warning: Accessed None trying to read property InventoryComponent
+	W_InventorySlot_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_InventorySlot_C_4
+	Function /Game/Inventory/UI/W_InventorySlot.W_InventorySlot_C:ExecuteUbergraph_W_InventorySlot:00BC
+[2023.11.01-21.15.21:904][578]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_4
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:0041
+[2023.11.01-21.15.24:379][698]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.01-21.15.27:362][838]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.01-21.15.27:391][839]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.01-21.15.28:334][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Chest.Chest
+[2023.11.01-21.15.28:335][878]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.01-21.15.28:335][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.01-21.15.34:112][147]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.11.01-21.15.40:031][393]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.11.01-21.15.40:032][393]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.01-21.15.40:032][393]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.01-21.18.41:140][157]BlueprintLog: New page: Compile Inventory_System
+[2023.11.01-21.18.41:258][157]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Stash_C_1.ChestMesh, from: Remove from navoctree)
+[2023.11.01-21.18.41:259][157]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.11.01-21.18.41:309][157]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.11.01-21.18.41:582][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.01-21.18.41:720][161]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.11.01-21.18.41:722][161]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System68A3607E42DE585340BD9A9F6FE4A99F.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.11.01-21.18.41:733][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 911 ms)
+[2023.11.01-21.18.41:743][161]AssetCheck: New page: Asset Save: Inventory_System
+[2023.11.01-21.18.41:743][161]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.11.01-21.18.42:077][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.11.01-21.18.42:084][171]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.TestItem_C_1.ChestMesh, from: Remove from navoctree)
+[2023.11.01-21.18.42:084][171]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Stash_C_1.ChestMesh, from: Remove from navoctree)
+[2023.11.01-21.18.42:084][171]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_1.ChestMesh, from: Remove from navoctree)
+[2023.11.01-21.18.42:084][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.01-21.18.42:205][171]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto3
+[2023.11.01-21.18.42:206][171]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/DungeonTestRoom_Auto37AAB16E04F0D5A7C6FFC5B86F6810E9C.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom_Auto3.umap'
+[2023.11.01-21.18.42:222][171]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom' took 0.179
+[2023.11.01-21.18.42:222][171]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.179
+[2023.11.01-21.18.42:222][171]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Inventory/Chest] ([2] browsable assets)...
+[2023.11.01-21.18.42:245][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Inventory/Chest.Chest]
+[2023.11.01-21.18.42:246][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Inventory/Chest]
+[2023.11.01-21.18.42:274][171]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Inventory/Chest_Auto3
+[2023.11.01-21.18.42:274][171]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Chest_Auto369C4A40F4E385DF7C7A90589BC4C6C52.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/Inventory/Chest_Auto3.uasset'
+[2023.11.01-21.18.42:275][171]LogFileHelpers: Auto-saving content packages took 0.053
