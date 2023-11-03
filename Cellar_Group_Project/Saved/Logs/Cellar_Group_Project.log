@@ -1186,6 +1186,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.03-00.46.25:089][  0]LogViewport: Scene viewport resized to 1377x912, mode Windowed.
 [2023.11.03-00.46.25:317][  0]LogAutomationController: Ignoring very large delta of 16783742.11 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.11.03-00.46.25:381][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/' took 1.94s
+<<<<<<< Updated upstream
 [2023.11.03-01.14.06:581][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2023.11.03-01.14.06:863][982]LogStall: Shutdown...
 [2023.11.03-01.14.06:870][982]LogStall: Shutdown complete.
@@ -1740,3 +1741,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.03-01.14.33:438][983]LogD3D12RHI: ~FD3D12DynamicRHI
 [2023.11.03-01.14.33:618][983]LogExit: Exiting.
 [2023.11.03-01.14.33:688][983]Log file closed, 11/03/23 14:14:33
+=======
+>>>>>>> Stashed changes
