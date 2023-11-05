@@ -30,7 +30,6 @@ The procedural dungeon itself consists of a system of connecters, hallways and r
 
 However, if it stops before it reaches its max iterations (Enough overlap causes a connecter to not generate any hallways) it runs back through the dungeon, and any connecter sides that dont have hallways, it will try to generate more dungeon from. Another scenario is it reaches max iterations and didn't generate enough rooms, in which it will find any connecters with no hallways, and generate a room from those. All of this leads to a system which has a very high chance to generate a dungeon, and even if it fails, the level will reload and it will try again. 
 
-The system for adding in the hallway and room meshes was created in a way where it is very easy to add more, as you just needed the mesh itself and a macro (Small section of math) to calculate where to spawn it in relation to the where it is requested. An example of this is that the 0,0,0 for the staircase is in the middle of it, so for a connecter to spawn it, the macro has to include moving the staircase forward and up, to fit correctly. 
 
 
 ### Dungeon Design and Layout [Level Of Input: All]:
@@ -42,13 +41,13 @@ Going alongside the dungeon generation, I was also tasked with making the dungeo
 
 [Link To Video]
 
-## Most Interesting Blueprint I Wrote:
+## Most Interesting Blueprint I Wrote / The Blueprints I Am Most Proud Of::
 
-???
+While it had it flaws (Mentioned in worst blueprint code), I was very proud of my procedural system, for it being the first of its kind I had made. 
 
-## The Blueprints I Am Most Proud Of:
 
-???
+
+The system for adding in the hallway and room meshes was created in a way where it is very easy to add more, as you just needed the mesh itself and a macro (Small section of math) to calculate where to spawn it in relation to the where it is requested. An example of this is that the 0,0,0 for the staircase is in the middle of it, so for a connecter to spawn it, the macro has to include moving the staircase forward and up, to fit correctly. 
 
 ## My Worst Blueprint Code:
 
