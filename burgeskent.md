@@ -61,7 +61,13 @@ Another thing I was happy with was the system for adding in the hallway and room
 
 ## My Worst Blueprint Code:
 
-???
+![Spawn Connecters On Ends](burgeskent-screenshots/bad-proc-spawn-connecters-on-ends.PNG)
+
+![Spawn Connecters On Ends](burgeskent-screenshots/bad-proc-connecter-collision-for-hallway-detection.PNG)
+
+![Spawn Connecters On Ends](burgeskent-screenshots/bad-proc-connecter-collision-view.PNG)
+
+
 
 ## My Use Of ChatGPT:
 
