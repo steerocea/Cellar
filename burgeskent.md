@@ -70,8 +70,14 @@ Because of my use of primarily blueprints, AI like ChatGPT was slightly less use
 # Learning Reflection:
 ## What I Learnt From This Project:
 
-???
+* Plan and make systems better from the start: Since it was my first time making a procedural system, I winged it from the start and didn't plan out much of the system. This meant that, for example, no generated paths can connect to other generated paths, because they don't line up correctly. However if I had planned the system to be grid based, I could have used something like the A-Star algorithm, to create paths between connecters, leading to a more accurate and detailed dungeon system. While I'm happy with the system I created, when realising this possibility half way through making it, it was already too late unless I rewrote the whole system.
+
+* Don't rely entirely on blueprints: I have only worked in blueprints for all of my projects so far. And in making this procedural system, for the first time I felt as if making it in C++ would have been easier and more effective. I could have made things tider, used local variables more, implement systems that I don't know how to do in blueprints, and not have to deal with the messy layout of the blueprints system. On top of that, C++ code even runs better than blueprints, which would have helped dramatically with the generation time for the dungeon. 
+
+* Use Blender for large asset creation: Making the dungeon rooms took a long time. This is because if I ever needed to change any part of the layout, I would need to go back into the unreal creation world, ungroup the orignial assets, make the change, regroup them, move them to 0,0,0 and then recombine them into one static mesh, hoping they were centered enough for the axis to work with my system. I worked with the unreal system because I was more confident in it than blender, but I now realise that using blender would have streamlined much of this process, enabling much easier movement of the axis, and combining into one mesh. 
 
 ## Most Important Thing I Will Use In Future Projects:
 
-???
+* Using C++: After what I mentioned in the section above, it is clear to me that I should make an entire project in C++ to learn the ropes and really see the benefits it provides. This will also give me a much better understanding of the Unreal Engine itself, as some systems work slightly differently with C++ than they do with blueprints. 
+
+* Outsourcing work: While our smaller group size didn't allow for this, if we had a larger group I would have liked to oursource the dungeon room creation to another team member, and work with them to make the dungeon. This is because making the dungeon rooms took a large chunk of my time that could have gone towards furthering the development of the procedural system, fixing bugs, and polishing.
