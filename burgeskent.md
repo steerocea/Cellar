@@ -78,6 +78,6 @@ Because of my use of primarily blueprints, AI like ChatGPT was slightly less use
 
 ## Most Important Thing I Will Use In Future Projects:
 
-* Using C++:
+* Using C++: After what I mentioned in the section above, it is clear to me that I should make an entire project in C++ to learn the ropes and really see the benefits it provides. This will also give me a much better understanding of the Unreal Engine itself, as some systems work slightly differently with C++ than they do with blueprints. 
 
-* Outsourcing work:
+* Outsourcing work: While our smaller group size didn't allow for this, if we had a larger group I would have liked to oursource the dungeon room creation to another team member, and work with them to make the dungeon. This is because making the dungeon rooms took a large chunk of my time that could have gone towards furthering the development of the procedural system, fixing bugs, and polishing.
