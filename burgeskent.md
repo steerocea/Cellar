@@ -40,15 +40,29 @@ Going alongside the dungeon generation, I was also tasked with making the dungeo
 
 ## Code Discussion Video:
 
+[Link To Video]
+
 ## Most Interesting Blueprint I Wrote:
+
+???
 
 ## The Blueprints I Am Most Proud Of:
 
+???
+
 ## My Worst Blueprint Code:
 
+???
+
 ## My Use Of ChatGPT:
+
+Because of my use of primarily blueprints, AI like ChatGPT was slightly less useful. It would still be able to answer questions, but it would have a hard time describing how to solve blueprint based questions. However for overall Unreal questions, like certain settings or methods excluding blueprints, it still helped every now and then. This problem will be solved when I switch to C++ in the future, and I will be able to use other built in AI for help while coding as well.
 
 # Learning Reflection:
 ## What I Learnt From This Project:
 
-## Most Important Thing I Wil Use In Future Projects:
+???
+
+## Most Important Thing I Will Use In Future Projects:
+
+???
