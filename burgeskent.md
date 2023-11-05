@@ -45,9 +45,11 @@ Going alongside the dungeon generation, I was also tasked with making the dungeo
 
 While it had it flaws (Mentioned in worst blueprint code), I was very proud of my procedural system, for it being the first of its kind I had made. 
 
-
+![Procedural Functions](burgeskent-screenshots/proc-functions.PNG)
 
 The system for adding in the hallway and room meshes was created in a way where it is very easy to add more, as you just needed the mesh itself and a macro (Small section of math) to calculate where to spawn it in relation to the where it is requested. An example of this is that the 0,0,0 for the staircase is in the middle of it, so for a connecter to spawn it, the macro has to include moving the staircase forward and up, to fit correctly. 
+
+![Room Extendability](burgeskent-screenshots/proc-room-extendability.PNG)
 
 ## My Worst Blueprint Code:
 
