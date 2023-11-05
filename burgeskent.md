@@ -30,7 +30,6 @@ The procedural dungeon itself consists of a system of connecters, hallways and r
 
 However, if it stops before it reaches its max iterations (Enough overlap causes a connecter to not generate any hallways) it runs back through the dungeon, and any connecter sides that dont have hallways, it will try to generate more dungeon from. Another scenario is it reaches max iterations and didn't generate enough rooms, in which it will find any connecters with no hallways, and generate a room from those. All of this leads to a system which has a very high chance to generate a dungeon, and even if it fails, the level will reload and it will try again. 
 
-The system for adding in the hallway and room meshes was created in a way where it is very easy to add more, as you just needed the mesh itself and a macro (Small section of math) to calculate where to spawn it in relation to the where it is requested. An example of this is that the 0,0,0 for the staircase is in the middle of it, so for a connecter to spawn it, the macro has to include moving the staircase forward and up, to fit correctly. 
 
 
 ### Dungeon Design and Layout [Level Of Input: All]:
@@ -42,13 +41,23 @@ Going alongside the dungeon generation, I was also tasked with making the dungeo
 
 [Link To Video]
 
-## Most Interesting Blueprint I Wrote:
+## Most Interesting Blueprint I Wrote / The Blueprints I Am Most Proud Of::
 
-???
+While it had it flaws (Mentioned in worst blueprint code), I was very proud of my procedural system, for it being the first of its kind I had made. The main implementation of the system was split into four functions, two for during the generation and two for after. 
 
-## The Blueprints I Am Most Proud Of:
+* Check If Stopped Early And Fix [During Generation]: This function existed to fix any problems that came with the generation, if the dungeon stopped genearing new hallways but wasn't at max iterations. It would pick a random ungenerated connecter side and generate more dungeon from it.
 
-???
+* Generate Dungeon [During Generation]: The main generation function, created connecters, and then depending on which side it chose, created more hallways or rooms from there. Deleted any hallways or rooms that overlapped eachother, and didn't count that towards the continued generation, so it could be continued elsewhere. 
+
+* Spawn Rooms On All Empty Connecters [Post Generation]: After the generation of the dungeon, runs through all connecters again, using the trigger boxes surrounding them to find ones that didn't have any hallways generated from them. If so, generated a room to contibute to filling the dungeons success criteria.
+
+* Is Done? [Post Generation]: Checks multiple factors for if the dungeon is finished generating, including if max iterations had been reached and if there are enough rooms. From there either generates the dungeon again for a maximum of 35 times until it is successful (This was the limit for looping the generation), if its still not successful just resets the level which runs the generation again, or hopefully it successfully generates, and spawnas the player into the dungeon.
+
+![Procedural Functions](burgeskent-screenshots/proc-functions.PNG)
+
+Another thing I was happy with was the system for adding in the hallway and room meshes. It was created in a way where it is very easy to add more, as you just needed the mesh itself and a macro (Small section of math) to calculate where to spawn it in relation to the where it is requested. An example of this is that the 0,0,0 for the staircase is in the middle of it, so for a connecter to spawn it, the macro has to include moving the staircase forward and up, to fit correctly. 
+
+![Room Extendability](burgeskent-screenshots/proc-room-extendability.PNG)
 
 ## My Worst Blueprint Code:
 
