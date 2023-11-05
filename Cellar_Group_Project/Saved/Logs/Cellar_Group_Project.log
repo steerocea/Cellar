@@ -10042,3 +10042,604 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.11.05-22.15.08:520][162]LogPlayLevel: Display: Destroying online subsystem :Context_86
 [2023.11.05-22.15.10:221][213]LogSlate: Window 'Message Log' being destroyed
 [2023.11.05-22.15.10:249][213]LogSlate: Window 'Message Log' being destroyed
+[2023.11.05-22.18.44:455][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-22.18.44:476][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-22.18.44:476][571]PIE: New page: PIE session: DungeonTestRoom (7/11/2023, 12:18:44 am)
+[2023.11.05-22.18.44:476][571]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.11.05-22.18.44:515][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038196s)
+[2023.11.05-22.18.44:515][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.038260s)
+[2023.11.05-22.18.44:515][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-22.18.44:515][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-22.18.44:515][571]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.11.05-22.18.44:516][571]LogPlayLevel: PIE: World Init took: (0.001533s)
+[2023.11.05-22.18.44:555][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.11.05-22.18.44:561][571]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.11.05-22.18.44:561][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-22.18.44:561][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-22.18.44:561][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-22.18.44:561][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-22.18.44:561][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.05-22.18.44:561][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.05-22.18.44:561][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.05-22.18.44:561][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-22.18.44:562][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-22.18.44:562][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-22.18.44:562][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-22.18.44:564][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-22.18.44:621][571]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.11.05-22.18.44:621][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-22.18.44:621][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-22.18.44:621][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-22.18.44:622][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2023.11.05-22.18.44:622][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2023.11.05-22.18.44:624][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2023.11.05-22.18.44:625][571]LogInit: FAudioDevice initialized with ID 56.
+[2023.11.05-22.18.44:625][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2023.11.05-22.18.44:625][571]LogAudio: Display: Audio Device (ID: 56) registered with world 'DungeonTestRoom'.
+[2023.11.05-22.18.44:625][571]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2023.11.05-22.18.44:628][571]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.05-22.18.44:648][571]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.11.06-11.18.44
+[2023.11.05-22.18.44:649][571]LogWorld: Bringing up level for play took: 0.020404
+[2023.11.05-22.18.44:652][571]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2023.11.05-22.18.44:662][571]PIE: Warning: AttachTo: '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.CollisionCylinder' is not static  (in blueprint "BP_FirstPersonCharacter"), cannot attach '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.NavMeshBoundsVolume_1.BrushComponent0' which is static to it. Aborting.
+[2023.11.05-22.18.44:662][571]PIE: Warning: AttachTo: '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.CollisionCylinder' is not static  (in blueprint "BP_FirstPersonCharacter"), cannot attach '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.NavMeshBoundsVolume_0.BrushComponent0' which is static to it. Aborting.
+[2023.11.05-22.18.44:662][571]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.05-22.18.44:662][571]PIE: Server logged in
+[2023.11.05-22.18.44:663][571]PIE: Play in editor total start time 0.187 seconds.
+[2023.11.05-22.18.44:705][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:706][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:707][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:707][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:708][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:709][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:709][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:710][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:711][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:712][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:712][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:713][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:730][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.44:730][571]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.18.48:726][742]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.18.48:726][742]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.18.48:726][742]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.18.50:412][845]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.18.50:412][845]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.18.51:784][926]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.18.51:784][926]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.18.51:784][926]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.18.54:288][ 71]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.18.54:288][ 71]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.18.55:276][127]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.18.55:276][127]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.18.55:276][127]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.19.03:677][618]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.19.03:677][618]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.19.08:271][902]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8.0125
+[2023.11.05-22.19.08:271][902]LogBlueprintUserMessages: [HitBox_C_0] Hit actor for:
+[2023.11.05-22.19.10:829][ 59]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8.0125
+[2023.11.05-22.19.10:830][ 59]LogBlueprintUserMessages: [HitBox_C_1] Hit actor for:
+[2023.11.05-22.19.13:100][200]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8.0125
+[2023.11.05-22.19.13:100][200]LogBlueprintUserMessages: [HitBox_C_2] Hit actor for:
+[2023.11.05-22.19.15:504][350]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 8.0125
+[2023.11.05-22.19.15:504][350]LogBlueprintUserMessages: [HitBox_C_3] Hit actor for:
+[2023.11.05-22.19.17:726][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-22.19.17:726][488]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.11.05-22.19.17:727][488]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-22.19.17:730][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-22.19.17:738][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-22.19.17:750][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-22.19.17:794][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.05-22.19.17:794][488]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2023.11.05-22.19.17:795][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.11.05-22.19.17:796][488]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.11.05-22.19.17:802][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-22.19.17:812][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.11.05-22.19.17:936][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:937][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:937][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:938][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:938][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:939][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:939][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:940][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:941][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:942][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:943][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:943][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:957][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.17:957][488]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.19.18:017][489]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2023.11.05-22.19.59:155][743]LogSlate: Window 'Message Log' being destroyed
+[2023.11.05-22.19.59:182][743]LogSlate: Window 'Message Log' being destroyed
+[2023.11.05-22.20.11:291][386]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.11.05-22.20.11:410][387]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-22.22.57:951][483]Cmd: SELECT NONE
+[2023.11.05-22.23.00:083][577]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.23.00:100][578]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.23.00:383][595]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.23.00:401][596]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.23.00:417][597]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.23.00:435][598]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.23.00:453][599]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.23.00:984][625]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.23.01:008][626]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue
+	W_ChestInventory_C /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:W_ChestInventory_C_3
+	Function /Game/Inventory/UI/W_ChestInventory.W_ChestInventory_C:ExecuteUbergraph_W_ChestInventory:01A6
+[2023.11.05-22.24.08:225][136]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-22.24.08:246][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-22.24.08:247][136]PIE: New page: PIE session: DungeonTestRoom (7/11/2023, 12:24:08 am)
+[2023.11.05-22.24.08:247][136]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.11.05-22.24.08:283][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036434s)
+[2023.11.05-22.24.08:283][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.036502s)
+[2023.11.05-22.24.08:283][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-22.24.08:283][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-22.24.08:284][136]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.11.05-22.24.08:285][136]LogPlayLevel: PIE: World Init took: (0.001455s)
+[2023.11.05-22.24.08:329][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.11.05-22.24.08:338][136]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2023.11.05-22.24.08:338][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-22.24.08:338][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-22.24.08:338][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-22.24.08:338][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-22.24.08:338][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.05-22.24.08:338][136]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.05-22.24.08:338][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.05-22.24.08:338][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-22.24.08:339][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-22.24.08:339][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-22.24.08:339][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-22.24.08:341][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-22.24.08:402][136]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.11.05-22.24.08:402][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-22.24.08:402][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-22.24.08:402][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-22.24.08:403][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2023.11.05-22.24.08:403][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2023.11.05-22.24.08:405][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2023.11.05-22.24.08:406][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2023.11.05-22.24.08:406][136]LogInit: FAudioDevice initialized with ID 57.
+[2023.11.05-22.24.08:406][136]LogAudio: Display: Audio Device (ID: 57) registered with world 'DungeonTestRoom'.
+[2023.11.05-22.24.08:406][136]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2023.11.05-22.24.08:409][136]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.05-22.24.08:429][136]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.11.06-11.24.08
+[2023.11.05-22.24.08:430][136]LogWorld: Bringing up level for play took: 0.020541
+[2023.11.05-22.24.08:432][136]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2023.11.05-22.24.08:442][136]PIE: Warning: AttachTo: '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.CollisionCylinder' is not static  (in blueprint "BP_FirstPersonCharacter"), cannot attach '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.NavMeshBoundsVolume_1.BrushComponent0' which is static to it. Aborting.
+[2023.11.05-22.24.08:443][136]PIE: Warning: AttachTo: '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.CollisionCylinder' is not static  (in blueprint "BP_FirstPersonCharacter"), cannot attach '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.NavMeshBoundsVolume_0.BrushComponent0' which is static to it. Aborting.
+[2023.11.05-22.24.08:443][136]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.05-22.24.08:443][136]PIE: Server logged in
+[2023.11.05-22.24.08:444][136]PIE: Play in editor total start time 0.196 seconds.
+[2023.11.05-22.24.08:482][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:483][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:483][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:484][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:485][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:486][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:487][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:487][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:488][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:489][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:490][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:490][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:505][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.08:506][136]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.14:088][396]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.24.14:088][396]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.24.14:088][396]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.24.16:103][518]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.24.16:103][518]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.24.17:243][586]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.24.17:243][586]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.24.17:243][586]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.24.18:570][664]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.24.18:570][664]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.24.19:112][693]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.24.19:112][693]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.24.19:112][693]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.24.21:443][825]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.24.21:443][825]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.24.24:646][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-22.24.24:646][ 10]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.11.05-22.24.24:647][ 10]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-22.24.24:651][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-22.24.24:670][ 10]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-22.24.24:689][ 10]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-22.24.24:745][ 10]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.05-22.24.24:746][ 10]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2023.11.05-22.24.24:746][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.11.05-22.24.24:747][ 10]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2023.11.05-22.24.24:753][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-22.24.24:769][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.11.05-22.24.24:891][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:892][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:892][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:893][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:893][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:894][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:894][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:895][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:896][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:896][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:897][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:898][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:910][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:911][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.24.24:935][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2023.11.05-22.25.00:589][391]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.05-22.25.00:602][391]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.05-22.25.00:616][391]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.05-22.25.00:635][392]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.05-22.25.07:563][783]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameInstance
+[2023.11.05-22.25.07:585][783]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.05-22.25.10:420][915]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance
+[2023.11.05-22.25.10:420][915]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-22.25.10:420][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-22.25.14:861][416]BlueprintLog: New page: Compile BP_GameInstance
+[2023.11.05-22.25.14:906][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.11.05-22.25.16:366][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-22.25.16:419][486]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_GameInstance
+[2023.11.05-22.25.16:419][486]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/BP_GameInstanceE6959F6D40F2EBE9C06812A1BEB7D9AC.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/FirstPerson/Blueprints/BP_GameInstance.uasset'
+[2023.11.05-22.25.16:442][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 13.5 sec)
+[2023.11.05-22.25.16:454][486]AssetCheck: New page: Asset Save: BP_GameInstance
+[2023.11.05-22.25.16:455][486]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance
+[2023.11.05-22.25.17:053][554]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-22.25.17:108][554]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_GameInstance
+[2023.11.05-22.25.17:109][554]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/BP_GameInstance57CF708A45B6E9A4DAAA7EBBE4D0056E.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/FirstPerson/Blueprints/BP_GameInstance.uasset'
+[2023.11.05-22.25.17:128][554]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 13.5 sec)
+[2023.11.05-22.25.17:139][554]AssetCheck: New page: Asset Save: BP_GameInstance
+[2023.11.05-22.25.17:139][554]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_GameInstance.BP_GameInstance
+[2023.11.05-22.28.23:328][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.11.05-22.28.23:335][148]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/DungeonPrototypeLevel/DungeonTestRoom' took 0.070
+[2023.11.05-22.28.23:336][148]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/BP_GameInstance] ([2] browsable assets)...
+[2023.11.05-22.28.23:336][148]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_GameInstance]
+[2023.11.05-22.28.23:338][148]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_GameInstance_Auto6
+[2023.11.05-22.28.23:338][148]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/BP_GameInstance_Auto6ED45AB204718B43B2E4C12B7162B9E63.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_GameInstance_Auto6.uasset'
+[2023.11.05-22.28.23:339][148]LogFileHelpers: Auto-saving content packages took 0.005
+[2023.11.05-22.28.29:065][207]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-22.28.29:084][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-22.28.29:084][207]PIE: New page: PIE session: DungeonTestRoom (7/11/2023, 12:28:29 am)
+[2023.11.05-22.28.29:084][207]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.11.05-22.28.29:120][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035921s)
+[2023.11.05-22.28.29:120][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.035974s)
+[2023.11.05-22.28.29:120][207]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-22.28.29:121][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-22.28.29:121][207]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.11.05-22.28.29:122][207]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2023.11.05-22.28.29:159][207]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.11.05-22.28.29:163][207]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2023.11.05-22.28.29:163][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-22.28.29:163][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-22.28.29:163][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-22.28.29:163][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-22.28.29:163][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.05-22.28.29:163][207]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.05-22.28.29:163][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.05-22.28.29:163][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-22.28.29:163][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-22.28.29:163][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-22.28.29:163][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-22.28.29:165][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-22.28.29:227][207]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.11.05-22.28.29:227][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-22.28.29:227][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-22.28.29:227][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-22.28.29:228][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2023.11.05-22.28.29:228][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2023.11.05-22.28.29:230][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2023.11.05-22.28.29:230][207]LogInit: FAudioDevice initialized with ID 58.
+[2023.11.05-22.28.29:230][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2023.11.05-22.28.29:230][207]LogAudio: Display: Audio Device (ID: 58) registered with world 'DungeonTestRoom'.
+[2023.11.05-22.28.29:230][207]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2023.11.05-22.28.29:234][207]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.05-22.28.29:253][207]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.11.06-11.28.29
+[2023.11.05-22.28.29:254][207]LogWorld: Bringing up level for play took: 0.020122
+[2023.11.05-22.28.29:257][207]LogOnline: OSS: Created online subsystem instance for: :Context_91
+[2023.11.05-22.28.29:267][207]PIE: Warning: AttachTo: '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.CollisionCylinder' is not static  (in blueprint "BP_FirstPersonCharacter"), cannot attach '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.NavMeshBoundsVolume_1.BrushComponent0' which is static to it. Aborting.
+[2023.11.05-22.28.29:267][207]PIE: Warning: AttachTo: '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.CollisionCylinder' is not static  (in blueprint "BP_FirstPersonCharacter"), cannot attach '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.NavMeshBoundsVolume_0.BrushComponent0' which is static to it. Aborting.
+[2023.11.05-22.28.29:267][207]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.05-22.28.29:268][207]PIE: Server logged in
+[2023.11.05-22.28.29:268][207]PIE: Play in editor total start time 0.184 seconds.
+[2023.11.05-22.28.29:310][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:311][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:312][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:313][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:313][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:314][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:315][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:316][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:317][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:317][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:318][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:319][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:333][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.29:334][207]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.28.32:631][356]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.28.32:632][356]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.28.32:632][356]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.28.34:221][453]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.28.34:221][453]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.28.34:799][483]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.28.34:799][483]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.28.34:799][483]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.28.36:674][570]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.28.36:674][570]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.28.41:269][823]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.28.41:269][823]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.28.41:269][823]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.28.43:030][934]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.28.43:031][934]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.28.45:077][ 55]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.28.45:077][ 55]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.28.45:077][ 55]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.28.45:694][ 93]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.28.45:694][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.28.47:004][163]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.28.47:004][163]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.28.47:004][163]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.28.49:388][293]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.28.49:389][293]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.28.50:148][332]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.28.50:148][332]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.28.50:148][332]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.28.57:977][738]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.28.57:977][738]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.29.00:904][896]LogBlueprintUserMessages: [ZombieEnemy_C_2] Enemy Health: 50.0
+[2023.11.05-22.29.02:403][975]LogBlueprintUserMessages: [ZombieEnemy_C_2] Enemy Health: 0.0
+[2023.11.05-22.29.06:863][229]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.29.06:863][229]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.29.06:863][229]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.29.09:899][409]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.29.09:899][409]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.29.11:256][487]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.29.11:256][487]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.29.11:256][487]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.29.13:169][595]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.29.13:169][595]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.29.18:828][911]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.29.18:828][911]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.29.18:828][911]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.29.19:294][940]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.29.19:294][940]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.29.20:523][ 11]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.29.20:523][ 11]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.29.20:523][ 11]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.29.24:613][234]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.29.24:613][234]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.29.25:651][290]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.29.25:651][290]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.29.25:651][290]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.29.35:388][836]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.29.35:388][836]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.29.51:406][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-22.29.51:406][705]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.11.05-22.29.51:407][705]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-22.29.51:410][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-22.29.51:431][705]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-22.29.51:457][705]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-22.29.51:537][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-22.29.51:540][705]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2023.11.05-22.29.51:541][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.11.05-22.29.51:542][705]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2023.11.05-22.29.51:591][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.11.05-22.29.51:699][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:699][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:700][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:701][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:701][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:702][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:703][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:703][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:704][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:705][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:706][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:707][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:724][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:725][705]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.29.51:742][706]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.11.05-22.29.53:581][730]LogSlate: Window 'Message Log' being destroyed
+[2023.11.05-22.29.53:612][730]LogSlate: Window 'Message Log' being destroyed
+[2023.11.05-22.32.13:071][667]BlueprintLog: New page: Compile Inventory_System
+[2023.11.05-22.32.14:218][667]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Stash_C_1.ChestMesh, from: Remove from navoctree)
+[2023.11.05-22.32.14:222][667]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: CustomMeshComponent /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom:PersistentLevel.Chest_C_4.ChestMesh, from: Remove from navoctree)
+[2023.11.05-22.32.14:274][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.11.05-22.32.15:955][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-22.32.16:141][735]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.11.05-22.32.16:142][735]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System3A718E814A1B8FB2903007BFA818B5DD.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.11.05-22.32.16:161][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 13.7 sec)
+[2023.11.05-22.32.16:173][735]AssetCheck: New page: Asset Save: Inventory_System
+[2023.11.05-22.32.16:173][735]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
+[2023.11.05-22.32.17:314][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.05-22.32.17:333][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.05-22.32.17:333][798]PIE: New page: PIE session: DungeonTestRoom (7/11/2023, 12:32:17 am)
+[2023.11.05-22.32.17:333][798]LogPlayLevel: Creating play world package: /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.11.05-22.32.17:369][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035539s)
+[2023.11.05-22.32.17:369][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/DungeonPrototypeLevel/DungeonTestRoom.DungeonTestRoom to /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom (0.035584s)
+[2023.11.05-22.32.17:369][798]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.05-22.32.17:369][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.05-22.32.17:370][798]LogAIModule: Creating AISystem for world DungeonTestRoom
+[2023.11.05-22.32.17:370][798]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2023.11.05-22.32.17:412][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.11.05-22.32.17:425][798]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2023.11.05-22.32.17:425][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.05-22.32.17:425][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.05-22.32.17:425][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.05-22.32.17:425][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.05-22.32.17:425][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.11.05-22.32.17:425][798]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.11.05-22.32.17:425][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.11.05-22.32.17:425][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.05-22.32.17:425][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.05-22.32.17:425][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.05-22.32.17:425][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.05-22.32.17:428][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.05-22.32.17:488][798]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio)
+[2023.11.05-22.32.17:489][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.05-22.32.17:489][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.05-22.32.17:489][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.05-22.32.17:489][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2023.11.05-22.32.17:489][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2023.11.05-22.32.17:492][798]LogInit: FAudioDevice initialized with ID 59.
+[2023.11.05-22.32.17:492][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2023.11.05-22.32.17:492][798]LogAudio: Display: Audio Device (ID: 59) registered with world 'DungeonTestRoom'.
+[2023.11.05-22.32.17:492][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2023.11.05-22.32.17:492][798]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2023.11.05-22.32.17:495][798]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.11.05-22.32.17:516][798]LogWorld: Bringing World /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom up for play (max tick rate 0) at 2023.11.06-11.32.17
+[2023.11.05-22.32.17:517][798]LogWorld: Bringing up level for play took: 0.021555
+[2023.11.05-22.32.17:520][798]LogOnline: OSS: Created online subsystem instance for: :Context_92
+[2023.11.05-22.32.17:532][798]PIE: Warning: AttachTo: '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.CollisionCylinder' is not static  (in blueprint "BP_FirstPersonCharacter"), cannot attach '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.NavMeshBoundsVolume_1.BrushComponent0' which is static to it. Aborting.
+[2023.11.05-22.32.17:532][798]PIE: Warning: AttachTo: '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.BP_FirstPersonCharacter_C_0.CollisionCylinder' is not static  (in blueprint "BP_FirstPersonCharacter"), cannot attach '/Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom.DungeonTestRoom:PersistentLevel.NavMeshBoundsVolume_0.BrushComponent0' which is static to it. Aborting.
+[2023.11.05-22.32.17:532][798]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2023.11.05-22.32.17:532][798]PIE: Server logged in
+[2023.11.05-22.32.17:533][798]PIE: Play in editor total start time 0.2 seconds.
+[2023.11.05-22.32.17:577][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:578][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:579][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:579][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:580][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:580][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:581][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:582][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:582][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:583][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:584][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:584][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:603][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.17:604][798]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.32.20:827][940]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.20:827][940]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.20:827][940]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.22:033][ 13]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.22:033][ 13]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.22:623][ 48]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.22:624][ 48]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.22:624][ 48]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.24:263][143]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.24:263][143]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.27:845][344]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.27:845][344]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.27:845][344]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.28:351][375]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.28:351][375]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.29:808][453]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.29:808][453]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.29:808][453]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.30:484][493]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.30:484][493]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.34:305][709]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.34:305][709]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.34:305][709]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.37:073][874]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.37:073][874]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.39:359][ 12]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.39:359][ 12]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.39:359][ 12]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.39:711][ 34]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.39:711][ 34]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.41:024][110]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.41:024][110]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.41:024][110]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.41:361][131]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.41:361][131]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.42:481][192]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.42:481][192]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.42:481][192]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.42:840][214]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.42:840][214]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.44:005][278]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.44:321][295]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.44:467][303]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.44:576][309]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.44:801][321]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.44:941][329]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.56:084][930]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.56:216][937]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.56:370][945]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.56:523][953]LogBlueprintUserMessages: [ItemDataComponent] You Opened Chest
+[2023.11.05-22.32.57:524][  6]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.57:524][  6]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.57:524][  6]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.32.58:785][ 78]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.32.58:785][ 78]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.32.59:527][118]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.32.59:527][118]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.32.59:527][118]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.33.00:086][150]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.33.00:086][150]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.33.01:496][228]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.33.01:496][228]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.33.01:496][228]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.33.02:864][301]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.33.02:864][301]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.33.03:398][331]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.33.03:398][331]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.33.03:398][331]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.33.05:566][451]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.33.05:567][451]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.33.08:617][618]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.33.08:617][618]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.33.08:617][618]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.33.10:660][726]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.33.10:660][726]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.33.11:402][768]LogCharacterMovement: BP_FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-30.01 Y=-494.61 Z=0.00 Location: X=1092.42 Y=-983.53 Z=105.55 Normal: X=0.10 Y=0.89 Z=-0.45 PenetrationDepth:0.648 Actor:Arrow_C_1 Component:Arrow_Arrow_0 BoneName:None (0 other events since notify)
+[2023.11.05-22.33.13:320][880]LogBlueprintUserMessages: [ZombieEnemy_C_2] Enemy Health: 70.0
+[2023.11.05-22.33.15:147][989]LogBlueprintUserMessages: [ZombieEnemy_C_2] Enemy Health: 40.0
+[2023.11.05-22.33.17:252][115]LogBlueprintUserMessages: [ZombieEnemy_C_2] Enemy Health: 10.0
+[2023.11.05-22.33.20:698][313]LogBlueprintUserMessages: [ZombieEnemy_C_2] Enemy Health: -20.0
+[2023.11.05-22.33.22:010][385]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(918)]!
+[2023.11.05-22.33.22:010][385]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.11.05-22.33.22:010][385]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.11.05-22.33.24:029][500]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.11.05-22.33.24:029][500]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.11.05-22.33.25:377][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-22.33.25:377][573]LogWorld: BeginTearingDown for /Game/Levels/DungeonPrototypeLevel/UEDPIE_0_DungeonTestRoom
+[2023.11.05-22.33.25:378][573]LogWorld: UWorld::CleanupWorld for DungeonTestRoom, bSessionEnded=true, bCleanupResources=true
+[2023.11.05-22.33.25:381][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-22.33.25:388][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.05-22.33.25:419][573]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.05-22.33.25:500][573]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.05-22.33.25:501][573]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2023.11.05-22.33.25:502][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2023.11.05-22.33.25:504][573]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2023.11.05-22.33.25:509][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.05-22.33.25:554][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.11.05-22.33.25:678][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:679][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:679][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:680][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:680][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:681][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:682][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:682][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:683][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:684][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:685][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:685][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:698][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:699][573]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.11.05-22.33.25:719][574]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2023.11.05-22.33.27:387][625]LogSlate: Window 'Message Log' being destroyed
+[2023.11.05-22.33.27:417][625]LogSlate: Window 'Message Log' being destroyed
+[2023.11.05-22.33.37:505][378]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.05-22.33.37:687][378]LogSavePackage: Moving output files for package: /Game/Inventory/Inventory_System
+[2023.11.05-22.33.37:688][378]LogSavePackage: Moving 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Saved/Inventory_System5D0FC2C0413FA856A7AE17914178DFA0.tmp' to 'C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/Inventory_System.uasset'
+[2023.11.05-22.33.37:708][378]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 13.9 sec)
+[2023.11.05-22.33.37:722][378]AssetCheck: New page: Asset Save: Inventory_System
+[2023.11.05-22.33.37:722][378]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Inventory/Inventory_System.Inventory_System
