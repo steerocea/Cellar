@@ -17,12 +17,12 @@ Another problem that isn't our teams fault is just the lack of team members we h
 # Code Discussion:
 ## Parts Of The Project I Worked On:
 
-Zombie Enemy [Level Of Input: All]:
+### Zombie Enemy [Level Of Input: All]:
 
 I worked on the enemy of the dungeon, the zombie. Originally there were meant to be three enemies, but this went down to two and then one when the procedural generation was taking me longer and longer. My contribution to the zombie included finding its model and animations online, retargeting the animations to fit the rig I was using (The animations had more bones), blending the animations togther, writing the behavour tree for the zombies AI, writing the code for how it does actions, and finally adding the sound effects. I was planning to use thw knowledge I gained from creating the zombie to make the other enemies, but as I mentioned I didn't end up having enough time for this. 
 
 
-Procedural Generation [Level Of Input: All]:
+### Procedural Generation [Level Of Input: All]:
 
 Since I had a little more Unreal Engine experience than my teammates before this project, and I wants interested in the topic, I wanted to take on the writing of the procedural generation code, which was by far the largest part of the game I worked on. I started working on it before the prototype hand in, as I wanted to get ahead as I knew it could take me a while to get it right.
 
@@ -33,7 +33,7 @@ However, if it stops before it reaches its max iterations (Enough overlap causes
 The system for adding in the hallway and room meshes was created in a way where it is very easy to add more, as you just needed the mesh itself and a macro (Small section of math) to calculate where to spawn it in relation to the where it is requested. An example of this is that the 0,0,0 for the staircase is in the middle of it, so for a connecter to spawn it, the macro has to include moving the staircase forward and up, to fit correctly. 
 
 
-Dungeon Design and Layout [Level Of Input: All]:
+### Dungeon Design and Layout [Level Of Input: All]:
 
 Going alongside the dungeon generation, I was also tasked with making the dungeon rooms themselves, including the connecter, hallways and rooms. To do this I found some assets online, loaded them into blender, and then converted them to .fbx to edit or just load straight into Unreal. From there I created the hallways and rooms in Unreal itself, as I was more confidient in its editing system than blenders. Then I combined all the assets into one static mesh for fps, converted them to an actor so I could add code, and then manually added in the lighting, chests and enemy placement from inside the actors viewport. In the end I created the connecter, four hallway types and seven room types, six for random generation and one for the starting room. 
 
