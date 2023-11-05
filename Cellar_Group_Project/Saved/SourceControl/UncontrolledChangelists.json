@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Levels/DungeonPrototypeLevel/DungeonTestRoom.umap",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Heal/glug-glug-37131-_AudioTrimmer_com_.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/source/scene_Anim.uasset",
+				"D:/UNI/cgra252/game/git/cellar-group-project/Cellar_Group_Project/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Minimap/Minimap.uasset",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Minimap/PlayerArrow.uasset",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/DungeonRoomPresets/Rooms/DR_StartRoom.uasset",
