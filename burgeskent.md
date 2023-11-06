@@ -63,11 +63,12 @@ Another thing I was happy with was the system for adding in the hallway and room
 
 One of the worst systems that I implemented was my detection of hallways that didn't spawn, and therefore the later generation of more hallways or just placement of walls. The way the system worked was there were three larger collision boxes all connected to eachother in the front of the connecter, and if they were never triggered, then a room would spawn there at the end of generation. The problem with this is its just a hacky fix, the real system should automatically detect if the generation ends without any more hallways, and generate a room from there. However my system runs through every connecter after the main generation cycle, leading to the use of more processing power and overall ugliness of the system. 
 
-To make things worse, later on I added more smaller collision boxes to detect hallways again, but this time individually, so I could then place walls to fill in the sides that didn't spawn hallways or rooms post generation. This should auto automatically happen during generation, instead of after. And a good system that allows this would facilitate non generic connecters, e.g instead of a plus shape for each one (Hallways can come out of any side) they could be L shapes, or even I shapes, completely removing the need to place in walls afterward.
-
 ![Spawn Connecters On Ends](burgeskent-screenshots/bad-proc-spawn-connecters-on-ends.PNG)
 
 ![Spawn Connecters On Ends](burgeskent-screenshots/bad-proc-connecter-collision-for-hallway-detection.PNG)
+
+To make things worse, later on I added more smaller collision boxes to detect hallways again, but this time individually, so I could then place walls to fill in the sides that didn't spawn hallways or rooms post generation. This should auto automatically happen during generation, instead of after. And a good system that allows this would facilitate non generic connecters, e.g instead of a plus shape for each one (Hallways can come out of any side) they could be L shapes, or even I shapes, completely removing the need to place in walls afterward.
+
 
 ![Spawn Connecters On Ends](burgeskent-screenshots/bad-proc-connecter-collision-view.PNG)
 
