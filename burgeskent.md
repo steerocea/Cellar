@@ -39,7 +39,7 @@ Going alongside the dungeon generation, I was also tasked with making the dungeo
 
 ## Code Discussion Video:
 
-[Link To Video]
+https://youtu.be/1WqppomDy78?si=XzYYowtLMI8LmPIc
 
 ## Most Interesting Blueprint I Wrote / The Blueprints I Am Most Proud Of::
 
