@@ -78,6 +78,8 @@ Short Sword model - Taken from Unreal asset store(https://www.unrealengine.com/m
 
 UI Assets - Mostly taken from Pinterest and editited. Document containing all links - (https://myvuwac-my.sharepoint.com/:w:/g/personal/steerocea_myvuw_ac_nz/EdV35sI5X8tHuTiX3YJfUwkBea9VTjVTvkBwm2QZe5F-UA?e=zyPd6q)
 
+Dungeon And Zombie Sounds - Taken from (freesound.org)
+
 
 
 
