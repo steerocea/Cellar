@@ -29,7 +29,7 @@ Our group dynamics worked well I believe. Considering we had a smaller team it w
 
 ## Parts Of The Project I Worked On: 
 
-As touched on before, the parts of the project I worked on involved the inventory system and everything that is encased in that, as well as the UI features involved in the inventory and the wider game.  
+As touched on before, the parts of the project I worked on involved the inventory system and everything that is encased in that, as well as the UI features involved in the inventory and the wider game.    
 
 ### Inventory System – ALL 
 
