@@ -20,12 +20,12 @@ The primary part that I worked on was the weapons and the consumables. I did all
 #Interesting / Proud
 The part that I found most interesting and also am the most proud of is my hit detection for the long sword attack. As previously mentioned it works using multiple raycasts spaced evenly apart based on an angle. It also has detection in order to assure that a single swing doesnt hit an enemy twice. I am proud of the part specifically as it took me quite some time as my first attempt was 3 hard coded rays that was bulky and ineficient. I decided to remake it when i tried to up the amount of rays to 5 as 3 left too larger gaps. I was planning on just adding more raycast nodes but it got too big and was hard to work with so i decided to remake it with a for loop
 
-<img src="HawkinLeviImages/capture.png" width="800"/>
+<img src="HawkinLeviImages/capture.JPG" width="800"/>
 
 #Bad Code
 When I started making the weapons it was easy with just the short sword and i thought the method of using the main event graph to do everything would work but as the weapons got more complicated and i added more of them it became just a massive mess of nodes that is rather hard to understand or work on. With this code i also just changed and added delays based on what I felt was appropriate which resulted in inefficient use of space and makes it much harder for anyone else to work with.
 
-<img src="HawkinLeviImages/capture1.png" width="800"/>
+<img src="HawkinLeviImages/capture1.JPG" width="800"/>
 
 #Chat GPT
 As I was using nodes and not C++ I did not have to rely on chat gpt as it is not very usefull for newer version of unreal.
