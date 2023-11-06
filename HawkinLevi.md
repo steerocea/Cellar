@@ -1,9 +1,11 @@
 # Name
 Levi Hawkins
+
 HawkinLevi
 
 # Role
 Project Role - Weapons/Consumables
+
 Animal Role - Owl
 
 ## Group Contribution:
@@ -16,6 +18,9 @@ I think that our group worked very well together despite the fact that some of u
 
 ## Code Discussion
 The primary part that I worked on was the weapons and the consumables. I did all of the work on these parts. The weapons that i implemented were: Short Sword, Long Sword, Bow and Health Potion. I had not worked with weapons or items in general before in unreal. As a result it is not the most efficient implemetation of the weapons however it still produces the same result. I implemented weapons by simply attatching all of the weapons to the player and making them invisible alongside a variable that decided if it could be seen or not. I then created an equip and unequip function for each that would do as its name suggests. I also created a function for each weapon that would attack. This did require me to work with some features that i had not worked with before such as raycasts. In order to create a wide swing for the Long Sword I used a for loop that would rotate the angle of the raycast and cast it multiple times in order to simulate a swing and I felt it would be more consistant than swinging a collider. I used the main first person player graph to create a decent chunk of my code as i needed to use delays which do not work in fucntions. The delays are used so that I could change how often the player can attack depending on the weapon aswell as allowing me to make sure the animations had time to play. When the player left clicks my code decides what weapon is equipped and then does the attack and plays the sound aswell as some other functions that add to the looks of my items. The animation is not done in this part though as it is done in the first person animation graph alongsinde the state diagram which uses tghe variables from the player to decide what animation should be played. I was also responsible for the characters ability to sprint which was simple based on the fact that i had done it for the previous project and the player movement built into the first person character makes it reasonably easy. 
+
+# Video
+https://youtu.be/dpUXly6FPfw
 
 # Interesting / Proud
 The part that I found most interesting and also am the most proud of is my hit detection for the long sword attack. As previously mentioned it works using multiple raycasts spaced evenly apart based on an angle. It also has detection in order to assure that a single swing doesnt hit an enemy twice. I am proud of the part specifically as it took me quite some time as my first attempt was 3 hard coded rays that was bulky and ineficient. I decided to remake it when i tried to up the amount of rays to 5 as 3 left too larger gaps. I was planning on just adding more raycast nodes but it got too big and was hard to work with so i decided to remake it with a for loop
