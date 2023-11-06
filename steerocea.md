@@ -97,7 +97,7 @@ My use of ChatGPT and other AI tools was very limited in this project, where the
 
 ## What I Learnt From This Project: 
 
-I have learned and developed as a programmer significantly through this project and I am very grateful for having the opportunity to do so. I had the opportunity to delve into new areas like inventory systems and UI design. This really taught me how much is involved in inventory and to not take it for granted. The many ways users can interact with it can lead to many different outcomes and you as the developer have to prepare for this. Also, through doing the UI design I have gained valuable in photoshop from editing, combining, and finding assets which is a very transferable skill I'm glad to have learned.  
+I have learned and developed as a programmer significantly through this project and I am very grateful for having the opportunity to do so. I had the opportunity to delve into new areas like inventory systems and UI design. This really taught me how much is involved in inventory and to not take it for granted. The many ways users can interact with it can lead to many different outcomes and you as the developer have to prepare for this. Also, through doing the UI design I have gained valuable knowledge in photoshop from editing, combining, and finding assets which is a very transferable skill I'm glad to have learned.  
 
 On top of the technical skills, I learned the value of teamwork, communication, and problem-solving in a programming environment. In particular, just how useful and essential strong git knowledge is to ensure a smooth experience and limit the amount of overwriting and mistakes that take place.  
  
