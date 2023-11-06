@@ -2,6 +2,9 @@
 
 ## Levi (Weapons):
 
+After completing my section of the project I can say that I am happy with the result. I really enjoyed working with the weapons I created and found it a very valauble experience to be able to learn how to develop in unreal. I also found working with the animations to be a very educational experience. I am happy with how well my parts fit into the game as a whole and how well everything came together.
+
+The group worked very well together throughout this assignment which may have been made easier due to only having 3 people for a 5-6 person group project. Due to timings with other assignments and exams some of the work was done a bit too close to the deadline especially for the first prototype. Some more time management especially from me would have given us more time to debug and test our game.
 
 ## Kent (Procedural / Dungeon Design):
 
