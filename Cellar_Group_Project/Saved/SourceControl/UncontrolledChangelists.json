@@ -5,15 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/DungeonRoomPresets/Hallways/DH_Connecter.uasset",
-				"C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/UI/W_PlayerMenu.uasset",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Levels/ProceduralDungeon/ProceduralDungeon.umap",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/PlayerUI/W_GameOver.uasset",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Levels/DungeonPrototypeLevel/DungeonTestRoom.umap",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/PlayerUI/W_InfoScreen.uasset",
 				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/PlayerUI/W_MainMenu.uasset",
-				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Enemies/ZombieEnemy.uasset"
+				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Enemies/ZombieEnemy.uasset",
+				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Weapons/Bow/Arrow.uasset",
+				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Enemies/AI/BT_AI.uasset",
+				"D:/GitLab/CellarProject/cellar-group-project/Cellar_Group_Project/Content/Enemies/AI/Tasks/BTTask_ChasePlayer.uasset",
+				"C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/DungeonRoomPresets/Hallways/DH_Connecter.uasset",
+				"C:/Users/Gorilla Rig/Documents/GitHub/cgra252-project/working-project/cellar-group-project/Cellar_Group_Project/Content/Inventory/UI/W_PlayerMenu.uasset"
 			]
 		}
 	]
