@@ -101,7 +101,7 @@ I have learned and developed as a programmer significantly through this project 
 
 On top of the technical skills, I learned the value of teamwork, communication, and problem-solving in a programming environment. In particular, just how useful and essential strong git knowledge is to ensure a smooth experience and limit the amount of overwriting and mistakes that take place.  
  
-## Most Important Thing I Wil Use In Future Projects: 
+## Most Important Thing I Will Use In Future Projects: 
 
 One key takeaway from this project that I will carry into future endeavors is the importance of effective communication within a team. Being the "Puppy" taught me the significance of maintaining a positive attitude and supporting team members. I believe that fostering a collaborative work environment is vital for achieving project success. Also, building upon the aspect of working within a team the amount of git knowledge I have gained through the project is also something that is invaluable and something you don’t get working on solo projects which I am very thankful for.  
 
