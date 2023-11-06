@@ -17,6 +17,8 @@ Link to setup video (part 1) - https://youtu.be/leZ0Brmr15c
 
 Link to prototype video (part 2) - https://youtu.be/1uYpE-SLAcg
 
+Link to final project video (part 3) - https://youtu.be/STzfqXRcIA4
+
 # Game Description
 
 ## Game Style and Similar Games
@@ -38,7 +40,7 @@ These challenging technologies will not only push the boundaries of our developm
 
 burgeskent: Animation Retargeting, Blend Space 1D,  Blackboard, Behavior Trees
 
-steerocea: Inventory System Blueprint, Drag & Drop / Swap, Interaction System, Item Stacking / Overflowing
+steerocea: Inventory System Blueprint, Drag & Drop / Swap, Interaction System, Item Stacking / Overflowing, Equiping Items, Player Stats
 
 Hawkinlevi: Animation Creation, Animation State Diagrams, Ray Casts / Line Casts
 
@@ -46,7 +48,7 @@ Hawkinlevi: Animation Creation, Animation State Diagrams, Ray Casts / Line Casts
 
 burgeskent: Zombie AI, Test Level, Early Procedural Generation
 
-steerocea: Inventory System, Chest UI
+steerocea: Inventory System, Overall UI, Damage and Stats System
 
 hawkinlevi: Weapons
 
@@ -73,6 +75,8 @@ Zombie Animations - Taken from Mixamo (https://www.mixamo.com/)
 Zombie Model - Made by Moddlers (https://www.turbosquid.com/3d-models/free-x-model-zombie/1012761)
 
 Short Sword model - Taken from Unreal asset store(https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-weapons)
+
+UI Assets - Mostly taken from Pinterest and editited. Document containing all links - (https://myvuwac-my.sharepoint.com/:w:/g/personal/steerocea_myvuw_ac_nz/EdV35sI5X8tHuTiX3YJfUwkBea9VTjVTvkBwm2QZe5F-UA?e=zyPd6q)
 
 
 
