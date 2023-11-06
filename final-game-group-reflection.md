@@ -11,6 +11,10 @@ As a group I think we worked better in the second half of the project over the f
 
 ## Ocean (UI / Inventory):
 
+After completing the final touches on the project, I am very happy with what I and the rest of the group have been able to produce. Working with all different types of code and ways to approach problems throughout building up the UI and Inventory system has been a very fulfilling experience and has given me knowledge I will take on in future endeavors. 
+
+Overall, as a group I think we worked well together, especially given the circumstances of only having 3 group members for a large project we took it in stride and were able to put out something we are all proud of. I believe we worked better and more efficiently as time went on, we got used to how each other works and on top of everything after completing other commitments were able to put more focus into this project improving our final outcome. We could have done for more hands in certain areas especially when it came to debugging and final polish so the last few days of rush were not so intense, but in the end, it has been a great learning experience and I am very grateful to of been able to produce this project alongside this great group of guys. 
+
 
 
 
