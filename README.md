@@ -54,6 +54,8 @@ hawkinlevi: Weapons
 
 ## Controls
 
+IMPORTANT!!!!: Please run the game on low if you are getting FPS issues (Open A Level -> [Top Right] Settings -> Engine Scalability Settings -> Low Everything)
+
 WASD - Movement
 
 Space - Jump
